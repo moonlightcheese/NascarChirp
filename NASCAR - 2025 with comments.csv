@@ -1,5 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
-0,01-LaJoie,461.250000,off,0.000000,DTCS,88.5,88.5,532,NN,023,Tone->Tone,NFM,5.00,,5.0W,Corey LaJoie,,,,
 1,Chastain,463.237500,off,0.000000,DTCS,88.5,88.5,532,NN,023,Tone->Tone,NFM,5.00,,5.0W,Ross Chastain,,,,
 2,Cindric,464.187500,off,0.000000,DTCS,88.5,88.5,226,NN,023,Tone->Tone,NFM,5.00,,5.0W,Austin Cindric,,,,
 3,Dillon,469.012500,off,0.000000,DTCS,88.5,88.5,131,NN,023,Tone->Tone,NFM,5.00,,5.0W,Austin Dillon,,,,
@@ -54,6 +53,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 88,Gisbergen,460.337500,off,0.000000,DTCS,88.5,88.5,023,NN,023,Tone->Tone,NFM,5.00,,5.0W,Shane Gisbergen,,,,
 91,CUP 91-1,465.437500,off,0.000000,DTCS,88.5,88.5,311,NN,023,Tone->Tone,NFM,5.00,,5.0W,,,,,
 99,Suarez,465.387500,off,0.000000,DTCS,88.5,88.5,226,NN,023,Tone->Tone,NFM,5.00,,5.0W,Daniel Suarez,,,,
+100,01-LaJoie,461.250000,off,0.000000,DTCS,88.5,88.5,532,NN,023,Tone->Tone,NFM,5.00,,5.0W,Corey LaJoie,,,,
 101,Chastain,469.387500,off,0.000000,TSQL,88.5,186.2,023,NN,023,Tone->Tone,NFM,5.00,,5.0W,Ross Chastain,,,,
 102,Cindric,468.887500,off,0.000000,DTCS,88.5,88.5,412,NN,023,Tone->Tone,NFM,5.00,,5.0W,Austin Cindric,,,,
 103,Dillon,467.375000,off,0.000000,DTCS,88.5,88.5,261,NN,023,Tone->Tone,NFM,5.00,,5.0W,Austin Dillon,,,,
