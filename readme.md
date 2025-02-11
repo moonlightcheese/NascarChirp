@@ -1,0 +1,1 @@
+This is a parse of the BC125 radio channel files for the Racing Radios scanners into a CHIRP compatible file.

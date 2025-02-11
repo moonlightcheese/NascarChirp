@@ -1,0 +1,536 @@
+Misc	Off	Auto	Off	8	14	6	2	USA
+Priority	Off
+WxPri	Off
+Service	1	Police	Off
+Service	2	Fire/Emergency	Off
+Service	3	HAM Radio	Off
+Service	4	Marine	Off
+Service	5	Railroad	Off
+Service	6	Civil Air	Off
+Service	7	Military Air	Off
+Service	8	CB Radio	Off
+Service	9	FRS/GMRS/MURS	Off
+Service	10	Racing	Off
+Custom	1	Search Bnak1	25000000	27995000	Off
+Custom	2	Search Bnak2	28000000	29695000	Off
+Custom	3	Search Bnak3	29700000	49995000	Off
+Custom	4	Search Bnak4	50000000	54000000	Off
+Custom	5	Search Bnak5	108000000	136991600	Off
+Custom	6	Search Bnak6	137000000	143995000	Off
+Custom	7	Search Bnak7	144000000	147995000	Off
+Custom	8	Search Bnak8	225000000	380000000	Off
+Custom	9	Search Bnak9	400000000	449993700	Off
+Custom	10	Search Bnak10	450000000	469993700	Off
+CloseCall	Off	On	On	Off
+CloseCallBands	On	On	On	On	On
+GeneralSearch	2	On
+Conventional	1	Bank 1	Off
+C-Freq	1	SB-KLEYN1-1	469575000	NFM	C131.8	Off	2	Off
+C-Freq	2	SB-BOLEN2-1	457975000	NFM	D051	Off	2	Off
+C-Freq	3	SB-SMITH2-1	462762500	NFM	D116	Off	2	Off
+C-Freq	4	SB-FENHAUS4-1	464287500	NFM	C91.5	Off	2	Off
+C-Freq	5	SB-CANCILLA5-1	463500000	NFM	D072	Off	2	Off
+C-Freq	6	SB-KNEE5-1	452837500	NFM	C250.3	Off	2	Off
+C-Freq	7	SB-DEANGELES7-1	467000000	NFM	D023	Off	2	Off
+C-Freq	8	SB-THORN7-1	459787500	NFM	D606	Off	2	Off
+C-Freq	9	SB-PELTIER8-1	463412500	NFM	D423	Off	2	Off
+C-Freq	10	SB-HANSEN8-1	463262500	NFM	C210.7	Off	2	Off
+C-Freq	11	SB-KRAUS9-1	452337500	NFM	D023	Off	2	Off
+C-Freq	12	SB-KVAPIL8-1	461987500	NFM	C88.5	Off	2	Off
+C-Freq	13	SB-GRIFFITH12-1	467087500	NFM	D054	Off	2	Off
+C-Freq	14	SB-OKRZESIK14-1	453687500	NFM	D466	Off	2	Off
+C-Freq	15	SB-GOMES16-1	464250000	NFM	D411	Off	2	Off
+C-Freq	16	SB-HONEYCUTT21-1	469425000	NFM	C179.9	Off	2	Off
+C-Freq	17	SB-RUGGIERO22-1	462775000	NFM	D152	Off	2	Off
+C-Freq	18	SB-SHEPHARD22-1	462875000	NFM	C107.2	Off	2	Off
+C-Freq	19	SB-VANMETER23-1	465837500	NFM	D245	Off	2	Off
+C-Freq	20	SB-CREWS23-1	456687500	NFM	D245	Off	2	Off
+C-Freq	21	SB-NAUGLE25-1	453362500	NFM	C103.5	Off	2	Off
+C-Freq	22	SB-POLLARD26-1	467475000	NFM	D464	Off	2	Off
+C-Freq	23	SB-SUTTON26-1	464562500	NFM	C123.0	Off	2	Off
+C-Freq	24	SB-BUTCHER28-1	461625000	NFM	D365	Off	2	Off
+C-Freq	25	SB-GRAGSON30-1	452425000	NFM	C233.6	Off	2	Off
+C-Freq	26	SB-STECKLY30-1	469487500	NFM	D122	Off	2	Off
+C-Freq	27	SB-LAPCEVICH32-1	457725000	NFM	D115	Off	2	Off
+C-Freq	28	SB-KVAPIL32-1	461637500	NFM	D565	Off	2	Off
+C-Freq	29	SB-SMITH33-1	462125000	NFM	C118.8	Off	2	Off
+C-Freq	30	SB-GARCIA35-1	462550000	NFM	D261	Off	2	Off
+C-Freq	31	SB-LODEN43-1	466450000	NFM	D732	Off	2	Off
+C-Freq	32	SB-JONES44-1	453087500	NFM	C82.5	Off	2	Off
+C-Freq	33	SB-DOSS44-1	462112500	NFM	C123.0	Off	2	Off
+C-Freq	34	SB-NASSE51-1	458775000	NFM	D032	Off	2	Off
+C-Freq	35	SB-FINCH51-1	461250000	NFM	D026	Off	2	Off
+C-Freq	36	SB-JURKOVIC53-1	468900000	NFM	C82.5	Off	2	Off
+C-Freq	37	SB-CRAIG54-1	452287500	NFM	D306	Off	2	Off
+C-Freq	38	SB-SUTTON54-1	464256200	NFM	D174	Off	2	Off
+C-Freq	39	SB-WATSON28-1	457112500	NFM	C77.0	Off	2	Off
+C-Freq	40	SB-SAUTER55-1	468625000	NFM	C206.5	Off	2	Off
+C-Freq	41	SB-PLYBON55-1	452475000	NFM	D115	Off	2	Off
+C-Freq	42	SB-PREECE62-1	457387500	NFM	D606	Off	2	Off
+C-Freq	43	SB-SAWALICH62-1	457425000	NFM	C254.1	Off	2	Off
+C-Freq	44	SB-HINDE69-1	465350000	NFM	D023	Off	2	Off
+C-Freq	45	SB-BRADEN69-1	453750000	NFM	C88.5	Off	2	Off
+C-Freq	46	SB-LAPCEVICH76-1	451562500	NFM	D271	Off	2	Off
+C-Freq	47	SB-RAZ76-1	464500000	NFM	C100.0	Off	2	Off
+C-Freq	48	SB-SCOTT82-1	461037500	NFM	D732	On	2	Off
+C-Freq	49	SB-FETCHO89-1	463350000	NFM	C141.3	Off	2	Off
+C-Freq	50	SB-MAJESKI91-1	461750000	NFM	D023	Off	2	Off
+Conventional	2	Bank 2	Off
+C-Freq	51	SB-GILLILAND98-1	460625000	NFM	D506	Off	2	Off
+C-Freq	52	SB-MEYER121-1	451300000	NFM	D331	Off	2	Off
+C-Freq	53	SB-VANMETER123-1	468312500	NFM	D205	Off	2	Off
+C-Freq	54	SB-GRILL112-1	464462500	NFM	C141.3	Off	2	Off
+C-Freq	55	SB-SAMSMITH8-1	462787500	NFM	C192.8	Off	2	Off
+C-Freq	56	SB-HIGORANI13-1	464987500	NFM	C206.5	Off	2	Off
+C-Freq	57	SB-RODERICK26-1	458775000	NFM	D032	Off	2	Off
+C-Freq	58		0	Auto	Off	Off	2	Off
+C-Freq	59	RACE CONTROL	461200000	NFM	D432	Off	2	Off
+C-Freq	60		0	Auto	Off	Off	2	Off
+C-Freq	61		0	Auto	Off	Off	2	Off
+C-Freq	62		0	Auto	Off	Off	2	Off
+C-Freq	63		0	Auto	Off	Off	2	Off
+C-Freq	64		0	Auto	Off	Off	2	Off
+C-Freq	65		0	Auto	Off	Off	2	Off
+C-Freq	66		0	Auto	Off	Off	2	Off
+C-Freq	67		0	Auto	Off	Off	2	Off
+C-Freq	68		0	Auto	Off	Off	2	Off
+C-Freq	69		0	Auto	Off	Off	2	Off
+C-Freq	70		0	Auto	Off	Off	2	Off
+C-Freq	71		0	Auto	Off	Off	2	Off
+C-Freq	72		0	Auto	Off	Off	2	Off
+C-Freq	73		0	Auto	Off	Off	2	Off
+C-Freq	74		0	Auto	Off	Off	2	Off
+C-Freq	75		0	Auto	Off	Off	2	Off
+C-Freq	76		0	Auto	Off	Off	2	Off
+C-Freq	77		0	Auto	Off	Off	2	Off
+C-Freq	78		0	Auto	Off	Off	2	Off
+C-Freq	79		0	Auto	Off	Off	2	Off
+C-Freq	80		0	Auto	Off	Off	2	Off
+C-Freq	81		0	Auto	Off	Off	2	Off
+C-Freq	82		0	Auto	Off	Off	2	Off
+C-Freq	83		0	Auto	Off	Off	2	Off
+C-Freq	84		0	Auto	Off	Off	2	Off
+C-Freq	85		0	Auto	Off	Off	2	Off
+C-Freq	86		0	Auto	Off	Off	2	Off
+C-Freq	87		0	Auto	Off	Off	2	Off
+C-Freq	88		0	Auto	Off	Off	2	Off
+C-Freq	89		0	Auto	Off	Off	2	Off
+C-Freq	90		0	Auto	Off	Off	2	Off
+C-Freq	91		0	Auto	Off	Off	2	Off
+C-Freq	92		0	Auto	Off	Off	2	Off
+C-Freq	93		0	Auto	Off	Off	2	Off
+C-Freq	94		0	Auto	Off	Off	2	Off
+C-Freq	95		0	Auto	Off	Off	2	Off
+C-Freq	96		0	Auto	Off	Off	2	Off
+C-Freq	97		0	Auto	Off	Off	2	Off
+C-Freq	98		0	Auto	Off	Off	2	Off
+C-Freq	99		0	Auto	Off	Off	2	Off
+C-Freq	100		0	Auto	Off	Off	2	Off
+Conventional	3	Bank 3	Off
+C-Freq	101	SB-KLEYN1-2	469562500	NFM	C210.7	Off	2	Off
+C-Freq	102	SB-BOLEN2-2	463275000	NFM	D072	Off	2	Off
+C-Freq	103	SB-SMITH2-2	451450000	NFM	D365	Off	2	Off
+C-Freq	104	SB-FENHAUS4-2	0	NFM	Off	On	2	Off
+C-Freq	105	SB-CANCILLA5-2	459287500	NFM	Off	On	2	Off
+C-Freq	106	SB-KNEE5-2	467287500	NFM	D662	Off	2	Off
+C-Freq	107	SB-DEANGELES7-2	462000000	NFM	D023	Off	2	Off
+C-Freq	108	SB-THORN7-2	456668700	NFM	C151.4	Off	2	Off
+C-Freq	109	SB-PELTIER8-2	457562500	NFM	D516	Off	2	Off
+C-Freq	110	SB-HANSEN8-2	468537500	NFM	D734	Off	2	Off
+C-Freq	111	SB-KRAUS9-2	454675000	NFM	C91.5	Off	2	Off
+C-Freq	112	SB-KVAPIL8-2	456650000	NFM	C192.8	Off	2	Off
+C-Freq	113	SB-GRIFFITH12-2	0	NFM	Off	On	2	Off
+C-Freq	114	SB-OKRZESIK14-2	454287500	NFM	D365	Off	2	Off
+C-Freq	115	SB-GOMES16-2	461250000	NFM	D145	Off	2	Off
+C-Freq	116	SB-HONEYCUTT21-2	460387500	NFM	D654	Off	2	Off
+C-Freq	117	SB-RUGGIERO22-2	467525000	NFM	D423	Off	2	Off
+C-Freq	118	SB-SHEPHARD22-2	467037500	NFM	D506	Off	2	Off
+C-Freq	119	SB-VANMETER23-2	456425000	NFM	C127.3	Off	2	Off
+C-Freq	120	SB-CREWS23-2	451450000	NFM	D365	Off	2	Off
+C-Freq	121	SB-NAUGLE25-2	457425000	NFM	C254.1	Off	2	Off
+C-Freq	122	SB-POLLARD26-2	465787500	NFM	D464	Off	2	Off
+C-Freq	123	SB-SUTTON26-2	466587500	NFM	C94.8	Off	2	Off
+C-Freq	124	SB-BUTCHER28-2	469462500	NFM	D365	Off	2	Off
+C-Freq	125	SB-GRAGSON30-2	458237500	NFM	D343	Off	2	Off
+C-Freq	126	SB-STECKLY30-2	452425000	NFM	C233.6	Off	2	Off
+C-Freq	127	SB-LAPCEVICH32-2	464625000	NFM	D065	Off	2	Off
+C-Freq	128	SB-KVAPIL32-2	462250000	NFM	C179.9	Off	2	Off
+C-Freq	129	SB-SMITH33-2	461387500	NFM	D331	Off	2	Off
+C-Freq	130	SB-GARCIA35-2	462575000	NFM	D261	Off	2	Off
+C-Freq	131	SB-LODEN43-2	457312500	NFM	D271	Off	2	Off
+C-Freq	132	SB-JONES44-2	465087500	NFM	D664	Off	2	Off
+C-Freq	133	SB-DOSS44-2	452650000	NFM	D155	Off	2	Off
+C-Freq	134	SB-NASSE51-2	459262500	NFM	C192.8	Off	2	Off
+C-Freq	135	SB-FINCH51-2	462518700	NFM	D071	Off	2	Off
+C-Freq	136	SB-JURKOVIC53-2	457212500	NFM	D072	Off	2	Off
+C-Freq	137	SB-CRAIG54-2	459425000	NFM	D413	Off	2	Off
+C-Freq	138	SB-SUTTON54-2	461125000	NFM	D245	Off	2	Off
+C-Freq	139	SB-WATSON28-2	455637500	NFM	D412	Off	2	Off
+C-Freq	140	SB-SAUTER55-2	452837500	NFM	C250.3	Off	2	Off
+C-Freq	141	SB-PLYBON55-2	0	NFM	Off	On	2	Off
+C-Freq	142	SB-PREECE62-2	461037500	NFM	D071	Off	2	Off
+C-Freq	143	SB-SAWALICH62-2	459812500	NFM	D732	Off	2	Off
+C-Freq	144	SB-HINDE69-2	456412500	NFM	D026	Off	2	Off
+C-Freq	145	SB-BRADEN69-2	461737500	NFM	D226	Off	2	Off
+C-Freq	146	SB-LAPCEVICH76-2	451512500	NFM	D371	Off	2	Off
+C-Freq	147	SB-RAZ76-2	464550000	NFM	C100.0	Off	2	Off
+C-Freq	148	SB-SCOTT82-2	461062500	NFM	D732	Off	2	Off
+C-Freq	149	SB-FETCHO89-2	468350000	NFM	C141.3	Off	2	Off
+C-Freq	150	SB-MAJESKI91-2	451825000	NFM	D023	Off	2	Off
+Conventional	4	Bank 4	Off
+C-Freq	151	SB-GILLILAND98-2	454650000	NFM	D026	Off	2	Off
+C-Freq	152	SB-MEYER121-2	451625000	NFM	D023	Off	2	Off
+C-Freq	153	SB-VANMETER123-2	465837500	NFM	D245	Off	2	Off
+C-Freq	154	SB-SAMSMITH8-2	465787500	NFM	D464	Off	2	Off
+C-Freq	155	SB-HIGORANI13-2	468512500	NFM	C100.0	Off	2	Off
+C-Freq	156	SB-RODERICK26-2	459262500	NFM	C192.8	Off	2	Off
+C-Freq	157		0	Auto	Off	Off	2	Off
+C-Freq	158		0	Auto	Off	Off	2	Off
+C-Freq	159		0	Auto	Off	Off	2	Off
+C-Freq	160		0	Auto	Off	Off	2	Off
+C-Freq	161		0	Auto	Off	Off	2	Off
+C-Freq	162		0	Auto	Off	Off	2	Off
+C-Freq	163		0	Auto	Off	Off	2	Off
+C-Freq	164		0	Auto	Off	Off	2	Off
+C-Freq	165		0	Auto	Off	Off	2	Off
+C-Freq	166		0	Auto	Off	Off	2	Off
+C-Freq	167		0	Auto	Off	Off	2	Off
+C-Freq	168		0	Auto	Off	Off	2	Off
+C-Freq	169		0	Auto	Off	Off	2	Off
+C-Freq	170		0	Auto	Off	Off	2	Off
+C-Freq	171		0	Auto	Off	Off	2	Off
+C-Freq	172		0	Auto	Off	Off	2	Off
+C-Freq	173		0	Auto	Off	Off	2	Off
+C-Freq	174		0	Auto	Off	Off	2	Off
+C-Freq	175		0	Auto	Off	Off	2	Off
+C-Freq	176		0	Auto	Off	Off	2	Off
+C-Freq	177		0	Auto	Off	Off	2	Off
+C-Freq	178		0	Auto	Off	Off	2	Off
+C-Freq	179		0	Auto	Off	Off	2	Off
+C-Freq	180		0	Auto	Off	Off	2	Off
+C-Freq	181		0	Auto	Off	Off	2	Off
+C-Freq	182		0	Auto	Off	Off	2	Off
+C-Freq	183		0	Auto	Off	Off	2	Off
+C-Freq	184		0	Auto	Off	Off	2	Off
+C-Freq	185		0	Auto	Off	Off	2	Off
+C-Freq	186		0	Auto	Off	Off	2	Off
+C-Freq	187		0	Auto	Off	Off	2	Off
+C-Freq	188		0	Auto	Off	Off	2	Off
+C-Freq	189		0	Auto	Off	Off	2	Off
+C-Freq	190		0	Auto	Off	Off	2	Off
+C-Freq	191		0	Auto	Off	Off	2	Off
+C-Freq	192		0	Auto	Off	Off	2	Off
+C-Freq	193		0	Auto	Off	Off	2	Off
+C-Freq	194		0	Auto	Off	Off	2	Off
+C-Freq	195		0	Auto	Off	Off	2	Off
+C-Freq	196		0	Auto	Off	Off	2	Off
+C-Freq	197		0	Auto	Off	Off	2	Off
+C-Freq	198		0	Auto	Off	Off	2	Off
+C-Freq	199		0	Auto	Off	Off	2	Off
+C-Freq	200		0	Auto	Off	Off	2	Off
+Conventional	5	Bank 5	Off
+C-Freq	201	SF-RENFREW0-1	462137500	NFM	D606	Off	2	Off
+C-Freq	202	SF-BOLEN2-1	457975000	NFM	D051	Off	2	Off
+C-Freq	203	SF-MUNSON3-1	466337500	NFM	C91.5	Off	2	Off
+C-Freq	204	SF-MASSEY4-1	464725000	NFM	D411	Off	2	Off
+C-Freq	205	SF-CANCILLA5-1	463500000	NFM	D072	Off	2	Off
+C-Freq	206	SF-MILLER5-1	463887500	NFM	D466	Off	2	Off
+C-Freq	207	SF-PHIPPS5-1	461287500	NFM	D754	Off	2	Off
+C-Freq	208	SF-LOPEZ6-1	453337500	NFM	D065	Off	2	Off
+C-Freq	209	SF-BALDWIN7-1	468775000	NFM	D423	Off	2	Off
+C-Freq	210	SF-THORN460-1	456687500	NFM	C151.4	On	2	Off
+C-Freq	211	SF-PATRICK11-1	464337500	NFM	D703	Off	2	Off
+C-Freq	212	SF-REEVES11-1	465762500	NFM	C192.8	Off	2	Off
+C-Freq	213	SF-CAPPELLO11-1	467925000	NFM	D025	Off	2	Off
+C-Freq	214	SF-PINSONNEAUT14	461237500	NFM	D165	Off	2	Off
+C-Freq	215	SF-BALDWIN15-1	468775000	NFM	D423	On	2	Off
+C-Freq	216	SF-DECAIRE15-1	460112500	NFM	D051	Off	2	Off
+C-Freq	217	SF-BULGER17-1	458612500	NFM	D251	Off	2	Off
+C-Freq	218	SF-FINCH18-1	463100000	NFM	D464	Off	2	Off
+C-Freq	219	SF-COURTNEY22-1	464325000	NFM	C179.9	Off	2	Off
+C-Freq	220	SF-BOSHELE24-1	451450000	NFM	D365	Off	2	Off
+C-Freq	221	SF-HENNEFER25-1	0	NFM	Off	On	2	Off
+C-Freq	222	SF-FAULK25-1	457337500	NFM	D743	Off	2	Off
+C-Freq	223	SF-RIPLEY25-1	457425000	NFM	C254.1	Off	2	Off
+C-Freq	224	SF-POLLARD26-1	467475000	NFM	D464	Off	2	Off
+C-Freq	225	SF-DAVIS29-1	455937500	NFM	D071	Off	2	Off
+C-Freq	226	SF-DUTTON32-1	453275000	NFM	D172	Off	2	Off
+C-Freq	227	SF-SMITH33-1	462125000	NFM	C118.8	Off	2	Off
+C-Freq	228	SF-CALDWELL40-1	466025000	NFM	D351	Off	2	Off
+C-Freq	229	SF-LODEN43-1	466450000	NFM	D732	On	2	Off
+C-Freq	230	SF-GRILL43-1	464462500	NFM	C141.3	Off	2	Off
+C-Freq	231	SF-JONES44-1	453087500	NFM	C82.5	Off	2	Off
+C-Freq	232	SF-CHRISTENSEN45	462550000	NFM	D261	Off	2	Off
+C-Freq	233	SF-WILLIAMS46-1	463287500	NFM	C88.5	Off	2	Off
+C-Freq	234	SF-HONEYCUTT47-1	458362500	NFM	C110.9	Off	2	Off
+C-Freq	235	SF-SMITH47-1	457025000	NFM	D051	Off	2	Off
+C-Freq	236	SF-NOLAND50-1	451550000	NFM	D654	Off	2	Off
+C-Freq	237	SF-NASSE51-1	468425000	NFM	D143	Off	2	Off
+C-Freq	238	SF-BELLO51-1	463350000	NFM	C141.3	Off	2	Off
+C-Freq	239	SF-GREEN54-1	462312500	NFM	C250.3	Off	2	Off
+C-Freq	240	SF-CRAIG54-1	452287500	NFM	D306	Off	2	Off
+C-Freq	241	SF-BUTCHER54-1	461625000	NFM	D365	Off	2	Off
+C-Freq	242	SF-PHILLIPS55-1	469575000	NFM	C131.8	Off	2	Off
+C-Freq	243	SF-RODERICK62-1	458637500	NFM	C225.7	Off	2	Off
+C-Freq	244	SF-ALLMAN67-1	468781200	NFM	C254.1	Off	2	Off
+C-Freq	245	SF-DIXON67-1	454725000	NFM	D205	Off	2	Off
+C-Freq	246	SF-HINDE69-1	465350000	NFM	D026	Off	2	Off
+C-Freq	247	SF-BROWN81-1	458775000	NFM	D032	Off	2	Off
+C-Freq	248	SF-THOMPSON82-1	453387500	NFM	NoTone	Off	2	Off
+C-Freq	249	SF-OLIVER88-1	457150000	NFM	C127.3	Off	2	Off
+C-Freq	250	SF-WILLIAMS89-1	467187500	NFM	C103.5	Off	2	Off
+Conventional	6	Bank 6	Off
+C-Freq	251	SF-WALL91-1	450425000	NFM	C151.4	Off	2	Off
+C-Freq	252	SF-VAIL407-1	451862500	NFM	C146.2	Off	2	Off
+C-Freq	253	SF-CANIPE2-1	467512500	NFM	D654	Off	2	Off
+C-Freq	254	SF-VILLARREAL5-1	469325000	NFM	C192.8	Off	2	Off
+C-Freq	255	SF-MACK11-1	465762500	NFM	C192.8	Off	2	Off
+C-Freq	256	SF-LODEN54-1	457312500	NFM	D271	Off	2	Off
+C-Freq	257	SF-BRADEN69-1	453750000	NFM	C88.5	Off	2	Off
+C-Freq	258	SF-THORN16-1	460387500	NFM	D654	Off	2	Off
+C-Freq	259		0	Auto	Off	Off	2	Off
+C-Freq	260		0	Auto	Off	Off	2	Off
+C-Freq	261		0	Auto	Off	Off	2	Off
+C-Freq	262		0	Auto	Off	Off	2	Off
+C-Freq	263		0	Auto	Off	Off	2	Off
+C-Freq	264		0	Auto	Off	Off	2	Off
+C-Freq	265		0	Auto	Off	Off	2	Off
+C-Freq	266		0	Auto	Off	Off	2	Off
+C-Freq	267		0	Auto	Off	Off	2	Off
+C-Freq	268		0	Auto	Off	Off	2	Off
+C-Freq	269		0	Auto	Off	Off	2	Off
+C-Freq	270		0	Auto	Off	Off	2	Off
+C-Freq	271		0	Auto	Off	Off	2	Off
+C-Freq	272		0	Auto	Off	Off	2	Off
+C-Freq	273		0	Auto	Off	Off	2	Off
+C-Freq	274		0	Auto	Off	Off	2	Off
+C-Freq	275		0	Auto	Off	Off	2	Off
+C-Freq	276		0	Auto	Off	Off	2	Off
+C-Freq	277		0	Auto	Off	Off	2	Off
+C-Freq	278		0	Auto	Off	Off	2	Off
+C-Freq	279		0	Auto	Off	Off	2	Off
+C-Freq	280		0	Auto	Off	Off	2	Off
+C-Freq	281		0	Auto	Off	Off	2	Off
+C-Freq	282		0	Auto	Off	Off	2	Off
+C-Freq	283		0	Auto	Off	Off	2	Off
+C-Freq	284		0	Auto	Off	Off	2	Off
+C-Freq	285		0	Auto	Off	Off	2	Off
+C-Freq	286		0	Auto	Off	Off	2	Off
+C-Freq	287		0	Auto	Off	Off	2	Off
+C-Freq	288		0	Auto	Off	Off	2	Off
+C-Freq	289		0	Auto	Off	Off	2	Off
+C-Freq	290		0	Auto	Off	Off	2	Off
+C-Freq	291		0	Auto	Off	Off	2	Off
+C-Freq	292		0	Auto	Off	Off	2	Off
+C-Freq	293		0	Auto	Off	Off	2	Off
+C-Freq	294		0	Auto	Off	Off	2	Off
+C-Freq	295		0	Auto	Off	Off	2	Off
+C-Freq	296		0	Auto	Off	Off	2	Off
+C-Freq	297		0	Auto	Off	Off	2	Off
+C-Freq	298		0	Auto	Off	Off	2	Off
+C-Freq	299		0	Auto	Off	Off	2	Off
+C-Freq	300		0	Auto	Off	Off	2	Off
+Conventional	7	Bank 7	Off
+C-Freq	301	SF-RENFREW0-2	469712500	NFM	D606	Off	2	Off
+C-Freq	302	SF-BOLEN2-2	463275000	NFM	D072	Off	2	Off
+C-Freq	303	SF-MUNSON3-2	467912500	NFM	D315	Off	2	Off
+C-Freq	304	SF-MASSEY4-2	469325000	NFM	C156.7	Off	2	Off
+C-Freq	305	SF-CANCILLA5-2	459287500	NFM	Off	On	2	Off
+C-Freq	306	SF-MILLER5-2	466362500	NFM	D466	Off	2	Off
+C-Freq	307	SF-PHIPPS5-2	0	NFM	Off	On	2	Off
+C-Freq	308	SF-LOPEZ6-2	458362500	NFM	C110.9	Off	2	Off
+C-Freq	309	SF-BALDWIN7-2	460112500	NFM	D051	Off	2	Off
+C-Freq	310	SF-THORN7-2	459787500	NFM	D606	Off	2	Off
+C-Freq	311	SF-PATRICK11-2	463362500	NFM	D432	Off	2	Off
+C-Freq	312	SF-REEVES11-2	461287500	NFM	D143	Off	2	Off
+C-Freq	313	SF-CAPPELLO11-2	467062500	NFM	C107.2	Off	2	Off
+C-Freq	314	SF-PINSONNEAUT14	462837500	NFM	D152	Off	2	Off
+C-Freq	315	SF-BALDWIN15-2	461562500	NFM	D152	On	2	Off
+C-Freq	316	SF-DECAIRE15-2	461575000	NFM	C71.9	Off	2	Off
+C-Freq	317	SF-BULGER17-2	456187500	NFM	D226	Off	2	Off
+C-Freq	318	SF-FINCH18-2	462125000	NFM	D464	Off	2	Off
+C-Freq	319	SF-COURTNEY22-2	467850000	NFM	C173.8	Off	2	Off
+C-Freq	320	SF-BOSHELE24-2	462025000	NFM	D365	Off	2	Off
+C-Freq	321	SF-HENNEFER25-2	0	NFM	Off	On	2	Off
+C-Freq	322	SF-FAULK25-2	457025000	NFM	D051	Off	2	Off
+C-Freq	323	SF-RIPLEY25-2	459812500	NFM	D732	Off	2	Off
+C-Freq	324	SF-POLLARD26-2	465787500	NFM	D464	Off	2	Off
+C-Freq	325	SF-DAVIS29-2	461625000	NFM	D365	Off	2	Off
+C-Freq	326	SF-DUTTON32-2	462225000	NFM	D172	Off	2	Off
+C-Freq	327	SF-SMITH33-2	461387500	NFM	D331	Off	2	Off
+C-Freq	328	SF-CALDWELL40-2	451450000	NFM	D411	Off	2	Off
+C-Freq	329	SF-LODEN43-2	464550000	NFM	D732	On	2	Off
+C-Freq	330	SF-GRILL43-2	467187500	NFM	C103.5	Off	2	Off
+C-Freq	331	SF-JONES44-2	465087500	NFM	D664	Off	2	Off
+C-Freq	332	SF-CHRISTENSEN45	462575000	NFM	D261	Off	2	Off
+C-Freq	333	SF-WILLIAMS46-2	456337500	NFM	D631	Off	2	Off
+C-Freq	334	SF-HONEYCUTT47-2	453337500	NFM	D065	Off	2	Off
+C-Freq	335	SF-SMITH47-2	457337500	NFM	D743	Off	2	Off
+C-Freq	336	SF-NOLAND50-2	469256200	NFM	D245	Off	2	Off
+C-Freq	337	SF-NASSE51-2	458775000	NFM	D032	Off	2	Off
+C-Freq	338	SF-BELLO51-2	450825000	NFM	D026	Off	2	Off
+C-Freq	339	SF-GREEN54-2	464500000	NFM	D023	Off	2	Off
+C-Freq	340	SF-CRAIG54-2	459425000	NFM	D413	Off	2	Off
+C-Freq	341	SF-BUTCHER54-2	458662500	NFM	D205	Off	2	Off
+C-Freq	342	SF-PHILLIPS55-2	469562500	NFM	C210.7	Off	2	Off
+C-Freq	343	SF-RODERICK62-2	458412500	NFM	C114.8	Off	2	Off
+C-Freq	344	SF-ALLMAN67-2	461037500	NFM	C225.7	Off	2	Off
+C-Freq	345	SF-DIXON67-2	0	NFM	Off	On	2	Off
+C-Freq	346	SF-HINDE69-2	465350000	NFM	D023	Off	2	Off
+C-Freq	347	SF-BROWN81-2	459262500	NFM	C192.8	Off	2	Off
+C-Freq	348	SF-THOMPSON82-2	466025000	NFM	D356	Off	2	Off
+C-Freq	349	SF-OLIVER88-2	453525000	NFM	C146.2	Off	2	Off
+C-Freq	350	SF-WILLIAMS89-2	455725000	NFM	D047	Off	2	Off
+Conventional	8	Bank 8	Off
+C-Freq	351	SF-WALL91-2	463825000	NFM	C94.8	Off	2	Off
+C-Freq	352	SF-VAIL407-2	461925000	NFM	C167.9	Off	2	Off
+C-Freq	353	SF-CANIPE2-2	469987500	NFM	D371	Off	2	Off
+C-Freq	354	SF-VILLARREAL5-2	464887500	NFM	D051	Off	2	Off
+C-Freq	355	SF-MACK11-2	461287500	NFM	D143	Off	2	Off
+C-Freq	356	SF-LODEN54-2	466450000	NFM	D732	Off	2	Off
+C-Freq	357	SF-BRADEN69-2	461737500	NFM	D226	Off	2	Off
+C-Freq	358	SF-THORN16-2	469425000	NFM	C179.9	Off	2	Off
+C-Freq	359		0	Auto	Off	Off	2	Off
+C-Freq	360		0	Auto	Off	Off	2	Off
+C-Freq	361		0	Auto	Off	Off	2	Off
+C-Freq	362		0	Auto	Off	Off	2	Off
+C-Freq	363		0	Auto	Off	Off	2	Off
+C-Freq	364		0	Auto	Off	Off	2	Off
+C-Freq	365		0	Auto	Off	Off	2	Off
+C-Freq	366		0	Auto	Off	Off	2	Off
+C-Freq	367		0	Auto	Off	Off	2	Off
+C-Freq	368		0	Auto	Off	Off	2	Off
+C-Freq	369		0	Auto	Off	Off	2	Off
+C-Freq	370		0	Auto	Off	Off	2	Off
+C-Freq	371		0	Auto	Off	Off	2	Off
+C-Freq	372		0	Auto	Off	Off	2	Off
+C-Freq	373		0	Auto	Off	Off	2	Off
+C-Freq	374		0	Auto	Off	Off	2	Off
+C-Freq	375		0	Auto	Off	Off	2	Off
+C-Freq	376		0	Auto	Off	Off	2	Off
+C-Freq	377		0	Auto	Off	Off	2	Off
+C-Freq	378		0	Auto	Off	Off	2	Off
+C-Freq	379		0	Auto	Off	Off	2	Off
+C-Freq	380		0	Auto	Off	Off	2	Off
+C-Freq	381		0	Auto	Off	Off	2	Off
+C-Freq	382		0	Auto	Off	Off	2	Off
+C-Freq	383		0	Auto	Off	Off	2	Off
+C-Freq	384		0	Auto	Off	Off	2	Off
+C-Freq	385		0	Auto	Off	Off	2	Off
+C-Freq	386		0	Auto	Off	Off	2	Off
+C-Freq	387		0	Auto	Off	Off	2	Off
+C-Freq	388		0	Auto	Off	Off	2	Off
+C-Freq	389		0	Auto	Off	Off	2	Off
+C-Freq	390		0	Auto	Off	Off	2	Off
+C-Freq	391		0	Auto	Off	Off	2	Off
+C-Freq	392		0	Auto	Off	Off	2	Off
+C-Freq	393		0	Auto	Off	Off	2	Off
+C-Freq	394		0	Auto	Off	Off	2	Off
+C-Freq	395		0	Auto	Off	Off	2	Off
+C-Freq	396		0	Auto	Off	Off	2	Off
+C-Freq	397		0	Auto	Off	Off	2	Off
+C-Freq	398		0	Auto	Off	Off	2	Off
+C-Freq	399		0	Auto	Off	Off	2	Off
+C-Freq	400		0	Auto	Off	Off	2	Off
+Conventional	9	Bank 9	Off
+C-Freq	401		0	Auto	Off	Off	2	Off
+C-Freq	402		0	Auto	Off	Off	2	Off
+C-Freq	403		0	Auto	Off	Off	2	Off
+C-Freq	404		0	Auto	Off	Off	2	Off
+C-Freq	405		0	Auto	Off	Off	2	Off
+C-Freq	406		0	Auto	Off	Off	2	Off
+C-Freq	407		0	Auto	Off	Off	2	Off
+C-Freq	408		0	Auto	Off	Off	2	Off
+C-Freq	409		0	Auto	Off	Off	2	Off
+C-Freq	410		0	Auto	Off	Off	2	Off
+C-Freq	411		0	Auto	Off	Off	2	Off
+C-Freq	412		0	Auto	Off	Off	2	Off
+C-Freq	413		0	Auto	Off	Off	2	Off
+C-Freq	414		0	Auto	Off	Off	2	Off
+C-Freq	415		0	Auto	Off	Off	2	Off
+C-Freq	416		0	Auto	Off	Off	2	Off
+C-Freq	417		0	Auto	Off	Off	2	Off
+C-Freq	418		0	Auto	Off	Off	2	Off
+C-Freq	419		0	Auto	Off	Off	2	Off
+C-Freq	420		0	Auto	Off	Off	2	Off
+C-Freq	421		0	Auto	Off	Off	2	Off
+C-Freq	422		0	Auto	Off	Off	2	Off
+C-Freq	423		0	Auto	Off	Off	2	Off
+C-Freq	424		0	Auto	Off	Off	2	Off
+C-Freq	425		0	Auto	Off	Off	2	Off
+C-Freq	426		0	Auto	Off	Off	2	Off
+C-Freq	427		0	Auto	Off	Off	2	Off
+C-Freq	428		0	Auto	Off	Off	2	Off
+C-Freq	429		0	Auto	Off	Off	2	Off
+C-Freq	430		0	Auto	Off	Off	2	Off
+C-Freq	431		0	Auto	Off	Off	2	Off
+C-Freq	432		0	Auto	Off	Off	2	Off
+C-Freq	433		0	Auto	Off	Off	2	Off
+C-Freq	434		0	Auto	Off	Off	2	Off
+C-Freq	435		0	Auto	Off	Off	2	Off
+C-Freq	436		0	Auto	Off	Off	2	Off
+C-Freq	437		0	Auto	Off	Off	2	Off
+C-Freq	438		0	Auto	Off	Off	2	Off
+C-Freq	439		0	Auto	Off	Off	2	Off
+C-Freq	440		0	Auto	Off	Off	2	Off
+C-Freq	441		0	Auto	Off	Off	2	Off
+C-Freq	442		0	Auto	Off	Off	2	Off
+C-Freq	443		0	Auto	Off	Off	2	Off
+C-Freq	444		0	Auto	Off	Off	2	Off
+C-Freq	445		0	Auto	Off	Off	2	Off
+C-Freq	446		0	Auto	Off	Off	2	Off
+C-Freq	447		0	Auto	Off	Off	2	Off
+C-Freq	448		0	Auto	Off	Off	2	Off
+C-Freq	449		0	Auto	Off	Off	2	Off
+C-Freq	450		0	Auto	Off	Off	2	Off
+Conventional	10	Bank 10	Off
+C-Freq	451		0	Auto	Off	Off	2	Off
+C-Freq	452		0	Auto	Off	Off	2	Off
+C-Freq	453		0	Auto	Off	Off	2	Off
+C-Freq	454		0	Auto	Off	Off	2	Off
+C-Freq	455		0	Auto	Off	Off	2	Off
+C-Freq	456		0	Auto	Off	Off	2	Off
+C-Freq	457		0	Auto	Off	Off	2	Off
+C-Freq	458		0	Auto	Off	Off	2	Off
+C-Freq	459		0	Auto	Off	Off	2	Off
+C-Freq	460		0	Auto	Off	Off	2	Off
+C-Freq	461		0	Auto	Off	Off	2	Off
+C-Freq	462		0	Auto	Off	Off	2	Off
+C-Freq	463		0	Auto	Off	Off	2	Off
+C-Freq	464		0	Auto	Off	Off	2	Off
+C-Freq	465		0	Auto	Off	Off	2	Off
+C-Freq	466		0	Auto	Off	Off	2	Off
+C-Freq	467		0	Auto	Off	Off	2	Off
+C-Freq	468		0	Auto	Off	Off	2	Off
+C-Freq	469		0	Auto	Off	Off	2	Off
+C-Freq	470		0	Auto	Off	Off	2	Off
+C-Freq	471		0	Auto	Off	Off	2	Off
+C-Freq	472		0	Auto	Off	Off	2	Off
+C-Freq	473		0	Auto	Off	Off	2	Off
+C-Freq	474		0	Auto	Off	Off	2	Off
+C-Freq	475		0	Auto	Off	Off	2	Off
+C-Freq	476		0	Auto	Off	Off	2	Off
+C-Freq	477		0	Auto	Off	Off	2	Off
+C-Freq	478		0	Auto	Off	Off	2	Off
+C-Freq	479		0	Auto	Off	Off	2	Off
+C-Freq	480		0	Auto	Off	Off	2	Off
+C-Freq	481		0	Auto	Off	Off	2	Off
+C-Freq	482		0	Auto	Off	Off	2	Off
+C-Freq	483		0	Auto	Off	Off	2	Off
+C-Freq	484		0	Auto	Off	Off	2	Off
+C-Freq	485		0	Auto	Off	Off	2	Off
+C-Freq	486		0	Auto	Off	Off	2	Off
+C-Freq	487		0	Auto	Off	Off	2	Off
+C-Freq	488		0	Auto	Off	Off	2	Off
+C-Freq	489		0	Auto	Off	Off	2	Off
+C-Freq	490		0	Auto	Off	Off	2	Off
+C-Freq	491		0	Auto	Off	Off	2	Off
+C-Freq	492		0	Auto	Off	Off	2	Off
+C-Freq	493		0	Auto	Off	Off	2	Off
+C-Freq	494		0	Auto	Off	Off	2	Off
+C-Freq	495		0	Auto	Off	Off	2	Off
+C-Freq	496		0	Auto	Off	Off	2	Off
+C-Freq	497		0	Auto	Off	Off	2	Off
+C-Freq	498		0	Auto	Off	Off	2	Off
+C-Freq	499		0	Auto	Off	Off	2	Off
+C-Freq	500		0	Auto	Off	Off	2	Off
