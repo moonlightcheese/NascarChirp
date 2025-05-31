@@ -1,0 +1,536 @@
+Misc	Squelch	Auto	Off	8	7	15	7	USA
+Priority	Off
+WxPri	Off
+Service	1	Police	On
+Service	2	Fire/Emergency	On
+Service	3	HAM Radio	On
+Service	4	Marine	On
+Service	5	Railroad	On
+Service	6	Civil Air	On
+Service	7	Military Air	On
+Service	8	CB Radio	On
+Service	9	FRS/GMRS/MURS	On
+Service	10	Racing	On
+Custom	1	Search Bnak1	25000000	27995000	Off
+Custom	2	Search Bnak2	28000000	29695000	Off
+Custom	3	Search Bnak3	29700000	49995000	On
+Custom	4	Search Bnak4	50000000	54000000	On
+Custom	5	Search Bnak5	108000000	136991600	On
+Custom	6	Search Bnak6	137000000	143995000	On
+Custom	7	Search Bnak7	144000000	147995000	On
+Custom	8	Search Bnak8	225000000	380000000	On
+Custom	9	Search Bnak9	400000000	449993700	On
+Custom	10	Search Bnak10	450000000	469993700	On
+CloseCall	Off	On	On	Off
+CloseCallBands	Off	Off	Off	Off	Off
+GeneralSearch	2	On
+Conventional	1	Bank 1	Off
+C-Freq	1	INDY CAR RADIO 1	454000000	Auto	Srch	Off	2	Off
+C-Freq	2	#2 JOSEF N.	464925000	Auto	D271	Off	2	Off
+C-Freq	3	#3 SCOTT M.	466825000	Auto	D223	Off	2	Off
+C-Freq	4	#4 DAVID M.	463012500	Auto	D465	Off	2	Off
+C-Freq	5	#5 PATO OWARD	460562500	Auto	D152	Off	2	Off
+C-Freq	6	#6 NOLAN S.	460662500	Auto	D431	Off	2	Off
+C-Freq	7	#7 CHRIS L.	460762500	Auto	D205	Off	2	Off
+C-Freq	8	#8 KYFFIN S.	457025000	Auto	D516	Off	2	Off
+C-Freq	9	#9 SCOTT DIXON	456650000	Auto	D125	Off	2	Off
+C-Freq	10	#10 ALEX PALOU	467037500	Auto	D036	Off	2	Off
+C-Freq	11	#06 HELIO C.	460332500	Auto	Srch	Off	2	Off
+C-Freq	12	#12 WILL POWER	466212500	Auto	D371	Off	2	Off
+C-Freq	13		0	Auto	NoTone	On	2	Off
+C-Freq	14	#14 SANTINO F.	467075000	Auto	D411	Off	2	Off
+C-Freq	15	#15 GRAHAM RAHAL	466912500	Auto	D032	Off	2	Off
+C-Freq	16		0	Auto	Off	On	2	Off
+C-Freq	17	#17 KYLE LARSON	460450000	Auto	Srch	Off	2	Off
+C-Freq	18	#18 RINUS VEEKAY	467200000	Auto	D132	Off	2	Off
+C-Freq	19		0	Auto	Off	On	2	Off
+C-Freq	20	#20 ALEXANDER R.	469112500	Auto	D734	Off	2	Off
+C-Freq	21	#21 CHRIS R.	469925000	Auto	D466	Off	2	Off
+C-Freq	22		0	Auto	Off	On	2	Off
+C-Freq	23	#23 RYAN H.REAY	453375000	Auto	Srch	Off	2	Off
+C-Freq	24	#24 JACK HARVEY	461012500	Auto	Srch	Off	2	Off
+C-Freq	25		0	Auto	Off	On	2	Off
+C-Freq	26	#26 COLTON HERTA	464300000	Auto	D026	Off	2	Off
+C-Freq	27	#27 KYLE K.	468487500	Auto	D025	Off	2	Off
+C-Freq	28	#28 MARCUS E.	469300000	Auto	D115	Off	2	Off
+C-Freq	29		0	Auto	Off	On	2	Off
+C-Freq	30	#30 DEVLIN D.	468262500	Auto	D131	Off	2	Off
+C-Freq	31		0	Auto	Off	On	2	Off
+C-Freq	32		0	Auto	Off	On	2	Off
+C-Freq	33	#33 ED CARPENTER	467712500	Auto	Srch	Off	2	Off
+C-Freq	34		0	Auto	Off	On	2	Off
+C-Freq	35		0	Auto	Off	On	2	Off
+C-Freq	36	#36 R. WICKENS	454875000	Auto	C229.1	On	2	Off
+C-Freq	37		0	Auto	Off	On	2	Off
+C-Freq	38		0	Auto	Off	On	2	Off
+C-Freq	39		0	Auto	Off	On	2	Off
+C-Freq	40		0	Auto	Off	On	2	Off
+C-Freq	41		0	Auto	Off	On	2	Off
+C-Freq	42		0	Auto	Off	On	2	Off
+C-Freq	43		0	Auto	Off	On	2	Off
+C-Freq	44		0	Auto	Off	On	2	Off
+C-Freq	45	#45 LOUIS FOSTER	466312500	Auto	D031	Off	2	Off
+C-Freq	46		0	Auto	Off	On	2	Off
+C-Freq	47		0	Auto	Off	On	2	Off
+C-Freq	48	#48 JIMMIE J.	466100000	Auto	Off	On	2	Off
+C-Freq	49		0	Auto	Off	On	2	Off
+C-Freq	50		0	Auto	Off	On	2	Off
+Conventional	2	Bank 2	Off
+C-Freq	51	#51 JACOB ABEL	463600000	Auto	D162	Off	2	Off
+C-Freq	52		0	Auto	Off	On	2	Off
+C-Freq	53		0	Auto	Off	On	2	Off
+C-Freq	54		0	Auto	Off	On	2	Off
+C-Freq	55	#55 BENJAMIN P.	463012500	Auto	Off	On	2	Off
+C-Freq	56		0	Auto	Off	On	2	Off
+C-Freq	57		0	Auto	Off	On	2	Off
+C-Freq	58		0	Auto	Off	On	2	Off
+C-Freq	59		0	Auto	Off	On	2	Off
+C-Freq	60	#60 FELIX R.	461075000	Auto	D143	Off	2	Off
+C-Freq	61		0	Auto	Off	On	2	Off
+C-Freq	62		0	Auto	Off	On	2	Off
+C-Freq	63		0	Auto	Off	On	2	Off
+C-Freq	64		0	Auto	Off	On	2	Off
+C-Freq	65		0	Auto	Off	On	2	Off
+C-Freq	66	#66 MARCUS A.	452800000	Auto	D261	Off	2	Off
+C-Freq	67		0	Auto	Off	On	2	Off
+C-Freq	68		0	Auto	Off	On	2	Off
+C-Freq	69		0	Auto	Off	On	2	Off
+C-Freq	70		0	Auto	Off	On	2	Off
+C-Freq	71		0	Auto	Off	On	2	Off
+C-Freq	72		0	Auto	Off	On	2	Off
+C-Freq	73		0	Auto	Off	On	2	Off
+C-Freq	74		0	Auto	Off	On	2	Off
+C-Freq	75	#75 TAKUMA SATO	460425000	Auto	Srch	Off	2	Off
+C-Freq	76	#76 CONOR DALY	458100000	Auto	D612	Off	2	Off
+C-Freq	77	#77 STINGRAYROBB	459650000	Auto	D627	Off	2	Off
+C-Freq	78		0	Auto	Off	On	2	Off
+C-Freq	79		0	Auto	Off	On	2	Off
+C-Freq	80		0	Auto	Off	On	2	Off
+C-Freq	81		0	Auto	Off	On	2	Off
+C-Freq	82		0	Auto	Off	On	2	Off
+C-Freq	83	#83 ROB S.	461162500	Auto	D047	Off	2	Off
+C-Freq	84		0	Auto	Off	On	2	Off
+C-Freq	85		0	Auto	Off	On	2	Off
+C-Freq	86		0	Auto	Off	On	2	Off
+C-Freq	87		0	Auto	Off	On	2	Off
+C-Freq	88		0	Auto	Off	On	2	Off
+C-Freq	89		0	Auto	Off	On	2	Off
+C-Freq	90	#90 CALLUM IILOT	462837500	Auto	D054	Off	2	Off
+C-Freq	91		0	Auto	Off	On	2	Off
+C-Freq	92		0	Auto	Off	On	2	Off
+C-Freq	93		0	Auto	Off	On	2	Off
+C-Freq	94		0	Auto	Off	On	2	Off
+C-Freq	95		0	Auto	Off	On	2	Off
+C-Freq	96		0	Auto	Off	On	2	Off
+C-Freq	97		0	Auto	Off	On	2	Off
+C-Freq	98	#98 MARCO A.	464137500	Auto	Srch	Off	2	Off
+C-Freq	99		0	Auto	Off	On	2	Off
+C-Freq	100		0	Auto	Off	On	2	Off
+Conventional	3	Bank 3	On
+C-Freq	101	INDY CAR RADIO 2	450737500	Auto	Srch	Off	2	Off
+C-Freq	102	#2 JOSEF N.	469600000	Auto	Srch	Off	2	Off
+C-Freq	103	#3 SCOTT M.	464675000	Auto	Srch	Off	2	Off
+C-Freq	104	#4 DAVID M.	467687500	Auto	Srch	Off	2	Off
+C-Freq	105	#5 PATO OWARD	469437500	Auto	Srch	Off	2	Off
+C-Freq	106	#6 NOLAN S.	463837500	Auto	Srch	Off	2	Off
+C-Freq	107	#7 CHRIS L.	459775000	Auto	Srch	Off	2	Off
+C-Freq	108	#8 KYFFIN S.	461112500	Auto	Srch	Off	2	Off
+C-Freq	109	#9 SCOTT DIXON	461187500	Auto	Srch	Off	2	Off
+C-Freq	110	#10 ALEX PALOU	464037500	Auto	Srch	Off	2	Off
+C-Freq	111	#06 HELIO C.	456762500	Auto	Srch	Off	2	Off
+C-Freq	112	#12 WILL POWER	464600000	Auto	Srch	Off	2	Off
+C-Freq	113		0	Auto	NoTone	On	2	Off
+C-Freq	114	#14 SANTINO F.	458912500	Auto	Srch	Off	2	Off
+C-Freq	115	#15 GRAHAM RAHAL	468887500	Auto	NoTone	Off	2	Off
+C-Freq	116		0	Auto	Off	On	2	Off
+C-Freq	117	#17 KYLE LARSON	456137500	Auto	Srch	Off	2	Off
+C-Freq	118	#18 RINUS VEEKAY	469937500	Auto	Srch	Off	2	Off
+C-Freq	119		0	Auto	Off	On	2	Off
+C-Freq	120	#20 ALEXANDER R.	457675000	Auto	Srch	Off	2	Off
+C-Freq	121	#21 CHRIS R.	465962500	Auto	Srch	Off	2	Off
+C-Freq	122		0	Auto	Off	On	2	Off
+C-Freq	123	#23 RYAN H.REAY	458375000	Auto	Srch	Off	2	Off
+C-Freq	124	#24 JACK HARVEY	466012500	Auto	Srch	Off	2	Off
+C-Freq	125		0	Auto	Off	On	2	Off
+C-Freq	126	#26 COLTON HERTA	463212500	Auto	Srch	Off	2	Off
+C-Freq	127	#27 KYLE K.	468887500	Auto	Srch	Off	2	Off
+C-Freq	128	#28 MARCUS E.	469750000	Auto	Srch	Off	2	Off
+C-Freq	129		0	Auto	Off	On	2	Off
+C-Freq	130	#30 DEV D.	469262500	Auto	Srch	Off	2	Off
+C-Freq	131		0	Auto	Off	On	2	Off
+C-Freq	132		0	Auto	Off	On	2	Off
+C-Freq	133		0	Auto	Off	On	2	Off
+C-Freq	134		0	Auto	Off	On	2	Off
+C-Freq	135		0	Auto	Off	On	2	Off
+C-Freq	136		0	Auto	Off	On	2	Off
+C-Freq	137		0	Auto	Off	On	2	Off
+C-Freq	138		0	Auto	Off	On	2	Off
+C-Freq	139		0	Auto	Off	On	2	Off
+C-Freq	140		0	Auto	Off	On	2	Off
+C-Freq	141		0	Auto	Off	On	2	Off
+C-Freq	142		0	Auto	Off	On	2	Off
+C-Freq	143		0	Auto	Off	On	2	Off
+C-Freq	144		0	Auto	Off	On	2	Off
+C-Freq	145	#45 LOUIS FOSTER	467837500	Auto	Srch	Off	2	Off
+C-Freq	146		0	Auto	Off	On	2	Off
+C-Freq	147		0	Auto	Off	On	2	Off
+C-Freq	148		0	Auto	Off	On	2	Off
+C-Freq	149		0	Auto	Off	On	2	Off
+C-Freq	150		0	Auto	Off	On	2	Off
+Conventional	4	Bank 4	On
+C-Freq	151	#51 JACOB ABEL	464937500	Auto	Srch	Off	2	Off
+C-Freq	152		0	Auto	Off	On	2	Off
+C-Freq	153		0	Auto	Off	On	2	Off
+C-Freq	154		0	Auto	Off	On	2	Off
+C-Freq	155		0	Auto	Off	On	2	Off
+C-Freq	156		0	Auto	Off	On	2	Off
+C-Freq	157		0	Auto	Off	On	2	Off
+C-Freq	158		0	Auto	Off	On	2	Off
+C-Freq	159		0	Auto	Off	On	2	Off
+C-Freq	160	#60 FELIX R.	454500000	Auto	Srch	Off	2	Off
+C-Freq	161		0	Auto	Off	On	2	Off
+C-Freq	162		0	Auto	Off	On	2	Off
+C-Freq	163		0	Auto	Off	On	2	Off
+C-Freq	164		0	Auto	Off	On	2	Off
+C-Freq	165		0	Auto	Off	On	2	Off
+C-Freq	166	#66 MARCUS A.	461725000	Auto	Srch	Off	2	Off
+C-Freq	167		0	Auto	Off	On	2	Off
+C-Freq	168		0	Auto	Off	On	2	Off
+C-Freq	169		0	Auto	Off	On	2	Off
+C-Freq	170		0	Auto	Off	On	2	Off
+C-Freq	171		0	Auto	Off	On	2	Off
+C-Freq	172		0	Auto	Off	On	2	Off
+C-Freq	173		0	Auto	Off	On	2	Off
+C-Freq	174		0	Auto	Off	On	2	Off
+C-Freq	175	#75 TAKUMA SATO	457175000	Auto	Srch	Off	2	Off
+C-Freq	176	#76 CONOR DALY	455150000	Auto	Srch	Off	2	Off
+C-Freq	177	#77 STINGRAYROBB	464650000	Auto	Srch	Off	2	Off
+C-Freq	178		0	Auto	Off	On	2	Off
+C-Freq	179		0	Auto	Off	On	2	Off
+C-Freq	180		0	Auto	Off	On	2	Off
+C-Freq	181		0	Auto	Off	On	2	Off
+C-Freq	182		0	Auto	Off	On	2	Off
+C-Freq	183	#83 ROB S.	461337500	Auto	Srch	Off	2	Off
+C-Freq	184		0	Auto	Off	On	2	Off
+C-Freq	185		0	Auto	Off	On	2	Off
+C-Freq	186		0	Auto	Off	On	2	Off
+C-Freq	187		0	Auto	Off	On	2	Off
+C-Freq	188		0	Auto	Off	On	2	Off
+C-Freq	189		0	Auto	Off	On	2	Off
+C-Freq	190	#90 CALLUM ILOTT	466162500	Auto	Srch	Off	2	Off
+C-Freq	191		0	Auto	Off	On	2	Off
+C-Freq	192		0	Auto	Off	On	2	Off
+C-Freq	193		0	Auto	Off	On	2	Off
+C-Freq	194		0	Auto	Off	On	2	Off
+C-Freq	195		0	Auto	Off	On	2	Off
+C-Freq	196		0	Auto	Off	On	2	Off
+C-Freq	197		0	Auto	Off	On	2	Off
+C-Freq	198	#98 MARCO A.	463350000	Auto	Srch	Off	2	Off
+C-Freq	199		0	Auto	Off	On	2	Off
+C-Freq	200		0	Auto	Off	On	2	Off
+Conventional	5	Bank 5	On
+C-Freq	201		0	Auto	Off	On	2	Off
+C-Freq	202		0	Auto	Off	On	2	Off
+C-Freq	203	#3  Josh G.	458962500	Auto	D412	Off	2	Off
+C-Freq	204		0	Auto	Off	On	2	Off
+C-Freq	205		0	Auto	Off	On	2	Off
+C-Freq	206	#6 Chris R.	455637500	Auto	Srch	Off	2	Off
+C-Freq	207	#6 Chris B.	453300000	Auto	Srch	Off	2	Off
+C-Freq	208		0	Auto	Off	On	2	Off
+C-Freq	209		0	Auto	Off	On	2	Off
+C-Freq	210	#10 Reece G.	463375000	Auto	Srch	Off	2	Off
+C-Freq	211		0	Auto	Off	On	2	Off
+C-Freq	212		0	Auto	Off	On	2	Off
+C-Freq	213		0	Auto	Off	On	2	Off
+C-Freq	214	#14 Josh Pearson	458637500	Auto	Srch	Off	2	Off
+C-Freq	215		0	Auto	Off	On	2	Off
+C-Freq	216		0	Auto	Off	On	2	Off
+C-Freq	217		0	Auto	Off	On	2	Off
+C-Freq	218		0	Auto	Off	On	2	Off
+C-Freq	219		0	Auto	Off	On	2	Off
+C-Freq	220		0	Auto	Off	On	2	Off
+C-Freq	221	#21 Kryffin S.	452575000	Auto	D071	Off	2	Off
+C-Freq	222		0	Auto	Off	On	2	Off
+C-Freq	223		0	Auto	Off	On	2	Off
+C-Freq	224		0	Auto	Off	On	2	Off
+C-Freq	225		0	Auto	Off	On	2	Off
+C-Freq	226	#26 Loius F.	469537500	Auto	D606	Off	2	Off
+C-Freq	227	#27 Hunter McE.	462912500	Auto	D343	Off	2	Off
+C-Freq	228	#28 Jamie C.	464537500	Auto	D612	Off	2	Off
+C-Freq	229	#29 James Roe Jr	469837500	Auto	D271	Off	2	Off
+C-Freq	230		0	Auto	Off	On	2	Off
+C-Freq	231		0	Auto	Off	On	2	Off
+C-Freq	232		0	Auto	Off	On	2	Off
+C-Freq	233		0	Auto	Off	On	2	Off
+C-Freq	234		0	Auto	Off	On	2	Off
+C-Freq	235		0	Auto	Off	On	2	Off
+C-Freq	236		0	Auto	Off	On	2	Off
+C-Freq	237		0	Auto	Off	On	2	Off
+C-Freq	238		0	Auto	Off	On	2	Off
+C-Freq	239	#39 Nolan S.	460387500	Auto	D306	Off	2	Off
+C-Freq	240		0	Auto	Off	On	2	Off
+C-Freq	241		0	Auto	Off	On	2	Off
+C-Freq	242		0	Auto	Off	On	2	Off
+C-Freq	243		0	Auto	Off	On	2	Off
+C-Freq	244		0	Auto	Off	On	2	Off
+C-Freq	245		0	Auto	Off	On	2	Off
+C-Freq	246		0	Auto	Off	On	2	Off
+C-Freq	247	#47 Enaam A.	451637500	Auto	Srch	Off	2	Off
+C-Freq	248		0	Auto	Off	On	2	Off
+C-Freq	249		0	Auto	Off	On	2	Off
+C-Freq	250		0	Auto	Off	On	2	Off
+Conventional	6	Bank 6	On
+C-Freq	251	#51 Jacob A.	459450000	Auto	D205	Off	2	Off
+C-Freq	252		0	Auto	Off	On	2	Off
+C-Freq	253		0	Auto	Off	On	2	Off
+C-Freq	254		0	Auto	Off	On	2	Off
+C-Freq	255		0	Auto	Off	On	2	Off
+C-Freq	256		0	Auto	Off	On	2	Off
+C-Freq	257	#57 Colin K.	469887500	Auto	Srch	Off	2	Off
+C-Freq	258		0	Auto	Off	On	2	Off
+C-Freq	259		0	Auto	Off	On	2	Off
+C-Freq	260		0	Auto	Off	On	2	Off
+C-Freq	261		0	Auto	Off	On	2	Off
+C-Freq	262		0	Auto	Off	On	2	Off
+C-Freq	263		0	Auto	Off	On	2	Off
+C-Freq	264		0	Auto	Off	On	2	Off
+C-Freq	265		0	Auto	Off	On	2	Off
+C-Freq	266		0	Auto	Off	On	2	Off
+C-Freq	267		0	Auto	Off	On	2	Off
+C-Freq	268	#68 Danial F.	466700000	Auto	Srch	Off	2	Off
+C-Freq	269		0	Auto	Off	On	2	Off
+C-Freq	270		0	Auto	Off	On	2	Off
+C-Freq	271		0	Auto	Off	On	2	Off
+C-Freq	272		0	Auto	Off	On	2	Off
+C-Freq	273		0	Auto	Off	On	2	Off
+C-Freq	274		0	Auto	Off	On	2	Off
+C-Freq	275	#75 Matteo N.	462012500	Auto	Srch	Off	2	Off
+C-Freq	276	#76 Rasmus L.	464012500	Auto	D172	Off	2	Off
+C-Freq	277		0	Auto	Off	On	2	Off
+C-Freq	278		0	Auto	Off	On	2	Off
+C-Freq	279		0	Auto	Off	On	2	Off
+C-Freq	280		0	Auto	Off	On	2	Off
+C-Freq	281		0	Auto	Off	On	2	Off
+C-Freq	282		0	Auto	Off	On	2	Off
+C-Freq	283		0	Auto	Off	On	2	Off
+C-Freq	284		0	Auto	Off	On	2	Off
+C-Freq	285		0	Auto	Off	On	2	Off
+C-Freq	286		0	Auto	Off	On	2	Off
+C-Freq	287		0	Auto	Off	On	2	Off
+C-Freq	288		0	Auto	Off	On	2	Off
+C-Freq	289		0	Auto	Off	On	2	Off
+C-Freq	290		0	Auto	Off	On	2	Off
+C-Freq	291		0	Auto	Off	On	2	Off
+C-Freq	292		0	Auto	Off	On	2	Off
+C-Freq	293		0	Auto	Off	On	2	Off
+C-Freq	294		0	Auto	Off	On	2	Off
+C-Freq	295		0	Auto	Off	On	2	Off
+C-Freq	296		0	Auto	Off	On	2	Off
+C-Freq	297		0	Auto	Off	On	2	Off
+C-Freq	298	#98 Jagger J.	453412500	Auto	Srch	Off	2	Off
+C-Freq	299	#99 Ernie F. Jr.	456850000	Auto	Srch	Off	2	Off
+C-Freq	300		0	Auto	Off	On	2	Off
+Conventional	7	Bank 7	On
+C-Freq	301		0	Auto	Off	On	2	Off
+C-Freq	302		0	Auto	Off	On	2	Off
+C-Freq	303		0	Auto	Off	On	2	Off
+C-Freq	304	#4 Ricardo E.	463600000	Auto	D624	Off	2	Off
+C-Freq	305		0	Auto	Off	On	2	Off
+C-Freq	306		0	Auto	Off	On	2	Off
+C-Freq	307		0	Auto	Off	On	2	Off
+C-Freq	308	#8 Jorge G.	455075000	Auto	D134	Off	2	Off
+C-Freq	309		0	Auto	Off	On	2	Off
+C-Freq	310	#10 Linim Z.	467925000	Auto	D734	Off	2	Off
+C-Freq	311		0	Auto	Off	On	2	Off
+C-Freq	312	#12 Kiko P.	453137500	Auto	D627	Off	2	Off
+C-Freq	313		0	Auto	Off	On	2	Off
+C-Freq	314		0	Auto	Off	On	2	Off
+C-Freq	315		0	Auto	Off	On	2	Off
+C-Freq	316		0	Auto	Off	On	2	Off
+C-Freq	317	#17 Nikita J.	468050000	Auto	D053	Off	2	Off
+C-Freq	318		0	Auto	Off	On	2	Off
+C-Freq	319	#19 Jordan M.	467450000	Auto	D134	Off	2	Off
+C-Freq	320	#20 Jace D.	465025000	Auto	D115	Off	2	Off
+C-Freq	321		0	Auto	Off	On	2	Off
+C-Freq	322		0	Auto	Off	On	2	Off
+C-Freq	323		0	Auto	Off	On	2	Off
+C-Freq	324		0	Auto	Off	On	2	Off
+C-Freq	325		0	Auto	Off	On	2	Off
+C-Freq	326		0	Auto	Off	On	2	Off
+C-Freq	327		0	Auto	Off	On	2	Off
+C-Freq	328		0	Auto	Off	On	2	Off
+C-Freq	329		0	Auto	Off	On	2	Off
+C-Freq	330		0	Auto	Off	On	2	Off
+C-Freq	331		0	Auto	Off	On	2	Off
+C-Freq	332		0	Auto	Off	On	2	Off
+C-Freq	333		0	Auto	Off	On	2	Off
+C-Freq	334		0	Auto	Off	On	2	Off
+C-Freq	335		0	Auto	Off	On	2	Off
+C-Freq	336		0	Auto	Off	On	2	Off
+C-Freq	337		0	Auto	Off	On	2	Off
+C-Freq	338		0	Auto	Off	On	2	Off
+C-Freq	339		0	Auto	Off	On	2	Off
+C-Freq	340		0	Auto	Off	On	2	Off
+C-Freq	341		0	Auto	Off	On	2	Off
+C-Freq	342		0	Auto	Off	On	2	Off
+C-Freq	343		0	Auto	Off	On	2	Off
+C-Freq	344	#44 Danny D.	467950000	Auto	C146.2	Off	2	Off
+C-Freq	345		0	Auto	Off	On	2	Off
+C-Freq	346		0	Auto	Off	On	2	Off
+C-Freq	347		0	Auto	Off	On	2	Off
+C-Freq	348		0	Auto	Off	On	2	Off
+C-Freq	349		0	Auto	Off	On	2	Off
+C-Freq	350		0	Auto	Off	On	2	Off
+Conventional	8	Bank 8	On
+C-Freq	351		0	Auto	Off	On	2	Off
+C-Freq	352		0	Auto	Off	On	2	Off
+C-Freq	353		0	Auto	Off	On	2	Off
+C-Freq	354		0	Auto	Off	On	2	Off
+C-Freq	355		0	Auto	Off	On	2	Off
+C-Freq	356		0	Auto	Off	On	2	Off
+C-Freq	357		0	Auto	Off	On	2	Off
+C-Freq	358		0	Auto	Off	On	2	Off
+C-Freq	359		0	Auto	Off	On	2	Off
+C-Freq	360		0	Auto	Off	On	2	Off
+C-Freq	361		0	Auto	Off	On	2	Off
+C-Freq	362		0	Auto	Off	On	2	Off
+C-Freq	363		0	Auto	Off	On	2	Off
+C-Freq	364		0	Auto	Off	On	2	Off
+C-Freq	365		0	Auto	Off	On	2	Off
+C-Freq	366		0	Auto	Off	On	2	Off
+C-Freq	367		0	Auto	Off	On	2	Off
+C-Freq	368		0	Auto	Off	On	2	Off
+C-Freq	369		0	Auto	Off	On	2	Off
+C-Freq	370		0	Auto	Off	On	2	Off
+C-Freq	371		0	Auto	Off	On	2	Off
+C-Freq	372		0	Auto	Off	On	2	Off
+C-Freq	373		0	Auto	Off	On	2	Off
+C-Freq	374		0	Auto	Off	On	2	Off
+C-Freq	375		0	Auto	Off	On	2	Off
+C-Freq	376		0	Auto	Off	On	2	Off
+C-Freq	377		0	Auto	Off	On	2	Off
+C-Freq	378		0	Auto	Off	On	2	Off
+C-Freq	379		0	Auto	Off	On	2	Off
+C-Freq	380		0	Auto	Off	On	2	Off
+C-Freq	381		0	Auto	Off	On	2	Off
+C-Freq	382		0	Auto	Off	On	2	Off
+C-Freq	383		0	Auto	Off	On	2	Off
+C-Freq	384		0	Auto	Off	On	2	Off
+C-Freq	385		0	Auto	Off	On	2	Off
+C-Freq	386		0	Auto	Off	On	2	Off
+C-Freq	387		0	Auto	Off	On	2	Off
+C-Freq	388		0	Auto	Off	On	2	Off
+C-Freq	389		0	Auto	Off	On	2	Off
+C-Freq	390		0	Auto	Off	On	2	Off
+C-Freq	391		0	Auto	Off	On	2	Off
+C-Freq	392		0	Auto	Off	On	2	Off
+C-Freq	393	#93 Lindsay B.	469050000	Auto	D503	Off	2	Off
+C-Freq	394		0	Auto	Off	On	2	Off
+C-Freq	395	#95 Avery T.	465400000	Auto	D054	Off	2	Off
+C-Freq	396		0	Auto	Off	On	2	Off
+C-Freq	397		0	Auto	Off	On	2	Off
+C-Freq	398		0	Auto	Off	On	2	Off
+C-Freq	399	#99 Myles R.	463550000	Auto	D245	Off	2	Off
+C-Freq	400		0	Auto	Off	On	2	Off
+Conventional	9	Bank 9	On
+C-Freq	401	NXT 2 Murray	453412500	Auto	C103.5	Off	2	Off
+C-Freq	402	NXT 3 Escotto	463162500	Auto	D311	Off	2	Off
+C-Freq	403	NXT 9 Aron	452700000	Auto	D051	Off	2	Off
+C-Freq	404	NXT 10 Koolen	466100000	Auto	D072	Off	2	Off
+C-Freq	405	NXT 11 Allaer	460800000	Auto	D445	Off	2	Off
+C-Freq	406	NXT 14 Pierson	460700000	Auto	D431	Off	2	Off
+C-Freq	407	NXT 16 Smith	460300000	Auto	D132	Off	2	Off
+C-Freq	408	NXT 17 Hedge	461612500	Auto	D152	Off	2	Off
+C-Freq	409	NXT 18 Johnson	459987500	Auto	D226	Off	2	Off
+C-Freq	410	NXT 24 Papasav	460400000	Auto	D412	Off	2	Off
+C-Freq	411	NXT 26 Hughes	469537500	Auto	D606	Off	2	Off
+C-Freq	412	NXT 27 deAlba	464537500	Auto	D612	Off	2	Off
+C-Freq	413	NXT 28 Hauger	462912500	Auto	D343	Off	2	Off
+C-Freq	414	NXT 29 Roe	469837500	Auto	D271	Off	2	Off
+C-Freq	415	NXT 30 Sceats	469837500	Auto	Srch	Off	2	Off
+C-Freq	416	NXT 38 Deegan	460200000	Auto	D074	Off	2	Off
+C-Freq	417	NXT 39 Correa	460100000	Auto	D306	Off	2	Off
+C-Freq	418	NXT 40 Miller	463775000	Auto	D315	Off	2	Off
+C-Freq	419	NXT 48 Missig	454787500	Auto	D205	Off	2	Off
+C-Freq	420	NXT 76 Collet	460612500	Auto	D071	Off	2	Off
+C-Freq	421	NXT 99 Rowe	467237500	Auto	D114	Off	2	Off
+C-Freq	422		0	Auto	Off	On	2	Off
+C-Freq	423		0	Auto	Off	On	2	Off
+C-Freq	424		0	Auto	Off	On	2	Off
+C-Freq	425		0	Auto	Off	On	2	Off
+C-Freq	426		0	Auto	Off	On	2	Off
+C-Freq	427		0	Auto	Off	On	2	Off
+C-Freq	428		0	Auto	Off	On	2	Off
+C-Freq	429		0	Auto	Off	On	2	Off
+C-Freq	430		0	Auto	Off	On	2	Off
+C-Freq	431		0	Auto	Off	On	2	Off
+C-Freq	432		0	Auto	Off	On	2	Off
+C-Freq	433		0	Auto	Off	On	2	Off
+C-Freq	434		0	Auto	Off	On	2	Off
+C-Freq	435		0	Auto	Off	On	2	Off
+C-Freq	436		0	Auto	Off	On	2	Off
+C-Freq	437		0	Auto	Off	On	2	Off
+C-Freq	438		0	Auto	Off	On	2	Off
+C-Freq	439		0	Auto	Off	On	2	Off
+C-Freq	440		0	Auto	Off	On	2	Off
+C-Freq	441		0	Auto	Off	On	2	Off
+C-Freq	442		0	Auto	Off	On	2	Off
+C-Freq	443		0	Auto	Off	On	2	Off
+C-Freq	444		0	Auto	Off	On	2	Off
+C-Freq	445		0	Auto	Off	On	2	Off
+C-Freq	446		0	Auto	Off	On	2	Off
+C-Freq	447		0	Auto	Off	On	2	Off
+C-Freq	448		0	Auto	Off	On	2	Off
+C-Freq	449	INDY CAR RADIO 1	454000000	Auto	Srch	Off	2	Off
+C-Freq	450	INDY CAR RADIO 2	450737500	Auto	Srch	Off	2	Off
+Conventional	10	Bank 10	On
+C-Freq	451	IMS P.A.	450462500	Auto	Srch	Off	2	Off
+C-Freq	452	IMS P.A. 2	450875000	Auto	Srch	Off	2	Off
+C-Freq	453	IMS P.A. 3	450900000	Auto	Srch	Off	2	Off
+C-Freq	454		0	Auto	Off	On	2	Off
+C-Freq	455		0	Auto	Off	On	2	Off
+C-Freq	456	FOX	450750000	Auto	Off	Off	2	Off
+C-Freq	457	FOX 2	450687500	Auto	Off	Off	2	Off
+C-Freq	458	FOX 3	450537500	Auto	Off	Off	2	Off
+C-Freq	459	INDYCAR RADIO 2	450737500	Auto	Srch	Off	2	Off
+C-Freq	460	RACE CONTROL	468825000	Auto	Srch	Off	2	Off
+C-Freq	461	RACE CONTROL 2	467012500	Auto	Srch	Off	2	Off
+C-Freq	462	SAFETY 2	461425000	Auto	Srch	Off	2	Off
+C-Freq	463	MS SAFETY 1	451687500	Auto	D365	Off	2	Off
+C-Freq	464	RACE DIRECTOR	464175000	Auto	C85.4	Off	2	Off
+C-Freq	465	INDYCAR OFFICALS	468812500	Auto	D546	Off	2	Off
+C-Freq	466	INDYCAR OBS	469362500	Auto	Srch	Off	2	Off
+C-Freq	467	FOX TV Broadcat	450387500	Auto	Off	Off	2	Off
+C-Freq	468	FOX TV/PROUCTION	450300000	Auto	Off	Off	2	Off
+C-Freq	469	FOX TV TRUCK	455200000	Auto	D114	Off	2	Off
+C-Freq	470		0	Auto	Off	On	2	Off
+C-Freq	471		0	Auto	Off	On	2	Off
+C-Freq	472		0	Auto	Off	On	2	Off
+C-Freq	473		0	Auto	Off	On	2	Off
+C-Freq	474		0	Auto	Off	On	2	Off
+C-Freq	475		0	Auto	Off	On	2	Off
+C-Freq	476		0	Auto	Off	On	2	Off
+C-Freq	477		0	Auto	Off	On	2	Off
+C-Freq	478		0	Auto	Off	On	2	Off
+C-Freq	479		0	Auto	Off	On	2	Off
+C-Freq	480		0	Auto	Off	On	2	Off
+C-Freq	481		0	Auto	Off	On	2	Off
+C-Freq	482		0	Auto	Off	On	2	Off
+C-Freq	483		0	Auto	Off	On	2	Off
+C-Freq	484		0	Auto	Off	On	2	Off
+C-Freq	485		0	Auto	Off	On	2	Off
+C-Freq	486		0	Auto	Off	On	2	Off
+C-Freq	487		0	Auto	Off	On	2	Off
+C-Freq	488		0	Auto	Off	On	2	Off
+C-Freq	489		0	Auto	Off	On	2	Off
+C-Freq	490		0	Auto	Off	On	2	Off
+C-Freq	491		0	Auto	Off	On	2	Off
+C-Freq	492		0	Auto	Off	On	2	Off
+C-Freq	493		0	Auto	Off	On	2	Off
+C-Freq	494		0	Auto	Off	On	2	Off
+C-Freq	495		0	Auto	Off	On	2	Off
+C-Freq	496		0	Auto	Off	On	2	Off
+C-Freq	497		0	Auto	Off	On	2	Off
+C-Freq	498		0	Auto	Off	On	2	Off
+C-Freq	499		0	Auto	Off	On	2	Off
+C-Freq	500	INDY CAR RADIO	454000000	Auto	Srch	Off	2	Off

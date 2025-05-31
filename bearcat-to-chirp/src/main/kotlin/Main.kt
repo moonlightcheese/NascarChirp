@@ -3,7 +3,7 @@ package com.moonlightcheese
 import java.io.File
 
 fun main() {
-    val inputFile = File("BC125 NASCAR_Feb_2024.bc125at_ss")
+    val inputFile = File("BC125_xMOTO_AMERICA_2024.bc125at_ss")
     val lines = inputFile.readLines()
 
     val channels: MutableList<Channel> = mutableListOf()

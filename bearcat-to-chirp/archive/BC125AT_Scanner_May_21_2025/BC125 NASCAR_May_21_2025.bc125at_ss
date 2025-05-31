@@ -1,0 +1,536 @@
+Misc	K+S	Auto	Off	8	14	5	7	USA
+Priority	Off
+WxPri	Off
+Service	1	Police	On
+Service	2	Fire/Emergency	On
+Service	3	HAM Radio	On
+Service	4	Marine	On
+Service	5	Railroad	On
+Service	6	Civil Air	On
+Service	7	Military Air	On
+Service	8	CB Radio	On
+Service	9	FRS/GMRS/MURS	On
+Service	10	Racing	On
+Custom	1	Search Bnak1	25000000	27995000	On
+Custom	2	Search Bnak2	28000000	29695000	On
+Custom	3	Search Bnak3	29700000	49995000	On
+Custom	4	Search Bnak4	50000000	54000000	On
+Custom	5	Search Bnak5	108000000	136991600	On
+Custom	6	Search Bnak6	137000000	143995000	On
+Custom	7	Search Bnak7	144000000	147995000	On
+Custom	8	Search Bnak8	225000000	380000000	On
+Custom	9	Search Bnak9	400000000	449993700	On
+Custom	10	Search Bnak10	450000000	469993700	On
+CloseCall	Off	On	On	Off
+CloseCallBands	Off	Off	Off	Off	Off
+GeneralSearch	2	On
+Conventional	1	Bank 1	Off
+C-Freq	1	CUP 1-1	463237500	NFM	D532	Off	2	Off
+C-Freq	2	CUP 2-1	464187500	NFM	D226	Off	2	Off
+C-Freq	3	CUP 3-1	469012500	NFM	D131	Off	2	Off
+C-Freq	4	CUP 4-1	468650000	NFM	D025	Off	2	Off
+C-Freq	5	CUP 5-1	465862500	NFM	D565	Off	2	Off
+C-Freq	6	CUP 6-1	466275000	NFM	D043	Off	2	Off
+C-Freq	7	CUP 7-1	469587500	NFM	C97.4	Off	2	Off
+C-Freq	8	CUP 8-1	468600000	NFM	D315	Off	2	Off
+C-Freq	9	CUP 9-1	461987500	NFM	D143	Off	2	Off
+C-Freq	10	CUP 10-1	465112500	NFM	D411	Off	2	Off
+C-Freq	11	CUP 11-1	467475000	NFM	D632	Off	2	Off
+C-Freq	12	CUP 12-1	464700000	NFM	D712	Off	2	Off
+C-Freq	13	CUP 01-1	461250000	Auto	D532	On	2	Off
+C-Freq	14		0	Auto	Off	On	2	Off
+C-Freq	15		0	Auto	Off	On	2	Off
+C-Freq	16	CUP 16-1	467987500	NFM	D223	Off	2	Off
+C-Freq	17	CUP 17-1	460950000	NFM	C85.4	Off	2	Off
+C-Freq	18		0	Auto	Off	On	2	Off
+C-Freq	19	CUP 19-1	458175000	NFM	D155	Off	2	Off
+C-Freq	20	CUP 20-1	466012500	NFM	D506	Off	2	Off
+C-Freq	21	CUP 21-1	465887500	NFM	C225.7	Off	2	Off
+C-Freq	22	CUP 22-1	464825000	NFM	D032	Off	2	Off
+C-Freq	23	CUP 23-1	463087500	NFM	D546	Off	2	Off
+C-Freq	24	CUP 24-1	453050000	NFM	C82.5	Off	2	Off
+C-Freq	25		0	Auto	Off	On	2	Off
+C-Freq	26		0	Auto	Off	On	2	Off
+C-Freq	27		0	Auto	Off	On	2	Off
+C-Freq	28		0	Auto	Off	On	2	Off
+C-Freq	29	MRN-1	454000000	NFM	C91.5	Off	2	Off
+C-Freq	30	MRN-2	454200000	NFM	C74.4	Off	2	Off
+C-Freq	31		0	Auto	Off	On	2	Off
+C-Freq	32		0	Auto	Off	On	2	Off
+C-Freq	33	CUP 33-1	469375000	Auto	D423	Off	2	Off
+C-Freq	34	CUP 34-1	467112500	NFM	D624	Off	2	Off
+C-Freq	35	CUP 35-1	458900000	NFM	D664	Off	2	Off
+C-Freq	36		0	Auto	Off	On	2	Off
+C-Freq	37		0	Auto	Off	On	2	Off
+C-Freq	38	CUP 38-1	463312500	NFM	D703	Off	2	Off
+C-Freq	39		0	Auto	Off	On	2	Off
+C-Freq	40	CUP 40-1	457987500	NFM	D343	Off	2	Off
+C-Freq	41	CUP 41-1	469137500	NFM	D251	Off	2	Off
+C-Freq	42	CUP 42-1	460162500	NFM	D331	Off	2	Off
+C-Freq	43	CUP 43-1	463337500	NFM	D243	Off	2	Off
+C-Freq	44	CUP 44-1	456775000	NFM	D132	Off	2	Off
+C-Freq	45	CUP 45-1	467537500	NFM	D743	Off	2	Off
+C-Freq	46		0	Auto	Off	On	2	Off
+C-Freq	47	CUP 47-1	457650000	NFM	D134	Off	2	Off
+C-Freq	48	CUP 48-1	451200000	NFM	D244	Off	2	Off
+C-Freq	49		0	Auto	Off	On	2	Off
+C-Freq	50		0	Auto	Off	On	2	Off
+Conventional	2	Bank 2	Off
+C-Freq	51	CUP 51-1	466225000	NFM	D516	Off	2	Off
+C-Freq	52		0	Auto	Off	On	2	Off
+C-Freq	53		0	Auto	Off	On	2	Off
+C-Freq	54	CUP 54-1	467450000	NFM	D734	Off	2	Off
+C-Freq	55		0	Auto	Off	On	2	Off
+C-Freq	56	CUP 56-1	464787500	Auto	D624	Off	2	Off
+C-Freq	57		0	Auto	Off	On	2	Off
+C-Freq	58		0	Auto	Off	On	2	Off
+C-Freq	59		0	Auto	Off	On	2	Off
+C-Freq	60	CUP 60-1	468950000	NFM	C94.8	Off	2	Off
+C-Freq	61		0	Auto	Off	On	2	Off
+C-Freq	62	CUP 62-1	451325000	NFM	C103.5	Off	2	Off
+C-Freq	63	QUALIFYING	451575000	NFM	D251	Off	2	Off
+C-Freq	64		0	Auto	Off	On	2	Off
+C-Freq	65		0	Auto	Off	On	2	Off
+C-Freq	66	CUP 66-1	458537500	NFM	D654	Off	2	Off
+C-Freq	67	CUP 67-1	467812500	Auto	D371	Off	2	Off
+C-Freq	68		0	Auto	Off	On	2	Off
+C-Freq	69		0	Auto	Off	On	2	Off
+C-Freq	70		0	Auto	Off	On	2	Off
+C-Freq	71	CUP 71-1	459037500	NFM	D365	Off	2	Off
+C-Freq	72		0	Auto	Off	On	2	Off
+C-Freq	73		0	Auto	Off	On	2	Off
+C-Freq	74		0	Auto	Off	On	2	Off
+C-Freq	75		0	Auto	Off	On	2	Off
+C-Freq	76		0	Auto	Off	On	2	Off
+C-Freq	77	CUP 77-1	458212500	NFM	C233.6	Off	2	Off
+C-Freq	78	CUP 78-1	467750000	NFM	C131.8	Off	2	Off
+C-Freq	79		0	Auto	Off	On	2	Off
+C-Freq	80		0	Auto	Off	On	2	Off
+C-Freq	81		0	Auto	Off	On	2	Off
+C-Freq	82		0	Auto	Off	On	2	Off
+C-Freq	83		0	Auto	Off	On	2	Off
+C-Freq	84	CUP 84-1	460237500	NFM	C192.8	Off	2	Off
+C-Freq	85		0	Auto	Off	On	2	Off
+C-Freq	86		0	Auto	Off	On	2	Off
+C-Freq	87	CUP 87-1	465437500	NFM	D311	Off	2	Off
+C-Freq	88	CUP 88-1	460337500	NFM	D023	Off	2	Off
+C-Freq	89		0	Auto	Off	On	2	Off
+C-Freq	90		0	Auto	Off	On	2	Off
+C-Freq	91		0	Auto	Off	On	2	Off
+C-Freq	92		0	Auto	Off	On	2	Off
+C-Freq	93		0	Auto	Off	On	2	Off
+C-Freq	94		0	Auto	Off	On	2	Off
+C-Freq	95		0	Auto	Off	On	2	Off
+C-Freq	96		0	Auto	Off	On	2	Off
+C-Freq	97		0	Auto	Off	On	2	Off
+C-Freq	98		0	Auto	Off	On	2	Off
+C-Freq	99	CUP-99	465387500	NFM	D226	Off	2	Off
+C-Freq	100	NAS 1	461200000	NFM	D432	Off	2	Off
+Conventional	3	Bank 3	Off
+C-Freq	101	CUP 1-2	469387500	NFM	C186.2	Off	2	Off
+C-Freq	102	CUP 2-2	468887500	NFM	D412	Off	2	Off
+C-Freq	103	CUP 3-2	467375000	NFM	D261	Off	2	Off
+C-Freq	104	CUP 4-2	463962500	NFM	C69.3	Off	2	Off
+C-Freq	105	CUP 5-2	458762500	NFM	D245	Off	2	Off
+C-Freq	106	CUP 6-2	461350000	NFM	D072	Off	2	Off
+C-Freq	107	CUP 7-2	468675000	NFM	D464	Off	2	Off
+C-Freq	108	CUP 8-2	457675000	NFM	D311	Off	2	Off
+C-Freq	109	CUP 9-2	464425000	NFM	D445	Off	2	Off
+C-Freq	110	CUP 10-2	462962500	NFM	C118.8	Off	2	Off
+C-Freq	111	CUP 11-2	462425000	NFM	D165	Off	2	Off
+C-Freq	112	CUP 12-2	464925000	NFM	C88.5	Off	2	Off
+C-Freq	113	CUP 01-2	466400000	Auto	D114	On	2	Off
+C-Freq	114		0	Auto	Off	On	2	Off
+C-Freq	115		0	Auto	Off	On	2	Off
+C-Freq	116	CUP 16-2	462750000	NFM	D315	Off	2	Off
+C-Freq	117	CUP 17-2	462200000	NFM	D723	Off	2	Off
+C-Freq	118		0	Auto	Off	On	2	Off
+C-Freq	119	CUP 19-2	462275000	NFM	Srch	Off	2	Off
+C-Freq	120	CUP 20-2	462475000	NFM	D413	Off	2	Off
+C-Freq	121	CUP 21-2	463037500	NFM	D205	Off	2	Off
+C-Freq	122	CUP 22-2	464825000	NFM	D032	Off	2	Off
+C-Freq	123	CUP 23-2	451125000	NFM	D466	Off	2	Off
+C-Freq	124	CUP 24-2	456887500	NFM	D423	Off	2	Off
+C-Freq	125		0	Auto	Off	On	2	Off
+C-Freq	126		0	Auto	Off	On	2	Off
+C-Freq	127		0	Auto	Off	On	2	Off
+C-Freq	128		0	Auto	Off	On	2	Off
+C-Freq	129		0	Auto	Off	On	2	Off
+C-Freq	130		0	Auto	Off	On	2	Off
+C-Freq	131		0	Auto	Off	On	2	Off
+C-Freq	132		0	Auto	Off	On	2	Off
+C-Freq	133	CUP 33-2	464375000	Auto	C210.7	Off	2	Off
+C-Freq	134	CUP 34-2	463300000	NFM	D065	Off	2	Off
+C-Freq	135	CUP 35-2	461150000	NFM	D265	Off	2	Off
+C-Freq	136		0	Auto	Off	On	2	Off
+C-Freq	137		0	Auto	Off	On	2	Off
+C-Freq	138	CUP 38-2	461837500	NFM	D546	Off	2	Off
+C-Freq	139		0	Auto	Off	On	2	Off
+C-Freq	140	CUP 40-2	458837500	NFM	D162	Off	2	Off
+C-Freq	141	CUP 41-2	466500000	NFM	D047	Off	2	Off
+C-Freq	142	CUP 42-2	462812500	NFM	D546	Off	2	Off
+C-Freq	143	CUP 43-3	464312500	NFM	D465	Off	2	Off
+C-Freq	144	CUP 44-2	456637500	NFM	C254.1	Off	2	Off
+C-Freq	145	CUP 45-2	463150000	NFM	D054	Off	2	Off
+C-Freq	146		0	Auto	Off	On	2	Off
+C-Freq	147	CUP 47-2	458650000	NFM	D162	Off	2	Off
+C-Freq	148	CUP 48-2	457912500	NFM	D754	Off	2	Off
+C-Freq	149		0	Auto	Off	On	2	Off
+C-Freq	150		0	Auto	Off	On	2	Off
+Conventional	4	Bank 4	Off
+C-Freq	151	CUP 51-2	451562500	NFM	D115	Off	2	Off
+C-Freq	152		0	Auto	Off	On	2	Off
+C-Freq	153		0	Auto	Off	On	2	Off
+C-Freq	154	CUP 54-2	462500000	NFM	D031	Off	2	Off
+C-Freq	155		0	Auto	Off	On	2	Off
+C-Freq	156	CUP 56-2	451850000	Auto	D465	Off	2	Off
+C-Freq	157		0	Auto	Off	On	2	Off
+C-Freq	158		0	Auto	Off	On	2	Off
+C-Freq	159		0	Auto	Off	On	2	Off
+C-Freq	160	CUP 60-2	463450000	NFM	C254.1	Off	2	Off
+C-Freq	161		0	Auto	Off	On	2	Off
+C-Freq	162	CUP 62-2	467887500	NFM	D051	Off	2	Off
+C-Freq	163		0	Auto	Off	On	2	Off
+C-Freq	164		0	Auto	Off	On	2	Off
+C-Freq	165		0	Auto	Off	On	2	Off
+C-Freq	166	CUP 66-2	467687500	NFM	D565	Off	2	Off
+C-Freq	167	CUP 67-2	451237500	Auto	D251	Off	2	Off
+C-Freq	168		0	Auto	Off	On	2	Off
+C-Freq	169		0	Auto	Off	On	2	Off
+C-Freq	170		0	Auto	Off	On	2	Off
+C-Freq	171	CUP 71-2	453637500	NFM	C167.9	Off	2	Off
+C-Freq	172		0	Auto	Off	On	2	Off
+C-Freq	173		0	Auto	Off	On	2	Off
+C-Freq	174		0	Auto	Off	On	2	Off
+C-Freq	175		0	Auto	Off	On	2	Off
+C-Freq	176		0	Auto	Off	On	2	Off
+C-Freq	177	CUP 77-2	465162500	NFM	C100.0	Off	2	Off
+C-Freq	178	CUP 78-2	468962500	NFM	D343	Off	2	Off
+C-Freq	179		0	Auto	Off	On	2	Off
+C-Freq	180		0	Auto	Off	On	2	Off
+C-Freq	181		0	Auto	Off	On	2	Off
+C-Freq	182		0	Auto	Off	On	2	Off
+C-Freq	183		0	Auto	Off	On	2	Off
+C-Freq	184	CUP 84-2	467500000	NFM	D503	Off	2	Off
+C-Freq	185		0	Auto	Off	On	2	Off
+C-Freq	186		0	Auto	Off	On	2	Off
+C-Freq	187	CUP 87-2	466300000	NFM	C103.5	Off	2	Off
+C-Freq	188	CUP 88-2	463825000	NFM	C141.3	Off	2	Off
+C-Freq	189		0	Auto	Off	On	2	Off
+C-Freq	190		0	Auto	Off	On	2	Off
+C-Freq	191		0	Auto	Off	On	2	Off
+C-Freq	192		0	Auto	Off	On	2	Off
+C-Freq	193		0	Auto	Off	On	2	Off
+C-Freq	194		0	Auto	Off	On	2	Off
+C-Freq	195		0	Auto	Off	On	2	Off
+C-Freq	196		0	Auto	Off	On	2	Off
+C-Freq	197		0	Auto	Off	On	2	Off
+C-Freq	198		0	Auto	Off	On	2	Off
+C-Freq	199	CUP 99-2	469812500	Auto	C206.5	Off	2	Off
+C-Freq	200	NAS 2	464600000	NFM	D631	Off	2	Off
+Conventional	5	Bank 5	Off
+C-Freq	201	NXS 1-1	468912500	NFM	D205	Off	2	Off
+C-Freq	202	NXS 2-1	469237500	NFM	D631	Off	2	Off
+C-Freq	203	NXS 3-1	469375000	Auto	D423	Off	2	Off
+C-Freq	204	NXS 4-1	467187500	NFM	D351	Off	2	Off
+C-Freq	205	NXS 5-1	459612500	NFM	C250.3	Off	2	Off
+C-Freq	206	NXS 07-1	466312500	Auto	D172	Off	2	Off
+C-Freq	207	NXS 7-1	468862500	NFM	C203.5	Off	2	Off
+C-Freq	208	NXS 8-1	462787500	NFM	C192.8	Off	2	Off
+C-Freq	209	NXS 9-1	457887500	Auto	C206.5	Off	2	Off
+C-Freq	210	NXS 10-1	459575000	NFM	D734	Off	2	Off
+C-Freq	211	NXS 11-1	466137500	NFM	D371	Off	2	Off
+C-Freq	212	NXS 00-1	468287500	NFM	C186.2	Off	2	Off
+C-Freq	213		0	Auto	Off	On	2	Off
+C-Freq	214	NXS 14-1	463637500	NFM	D143	Off	2	Off
+C-Freq	215		0	Auto	Off	On	2	Off
+C-Freq	216	NXS 16-1	468025000	NFM	C71.9	Off	2	Off
+C-Freq	217	NXS 17-1	457987500	Auto	D343	Off	2	Off
+C-Freq	218	NXS 18-1	464787500	NFM	D624	Off	2	Off
+C-Freq	219	NXS 19-1	466012500	NFM	D506	Off	2	Off
+C-Freq	220	NXS 20-1	461862500	NFM	D152	Off	2	Off
+C-Freq	221	NXS 21-1	456862500	NFM	C151.4	Off	2	Off
+C-Freq	222		0	Auto	Off	On	2	Off
+C-Freq	223		0	Auto	Off	On	2	Off
+C-Freq	224	NXS 24-1	453075000	NFM	D445	Off	2	Off
+C-Freq	225	NXS 25-1	468825000	NFM	C233.6	Off	2	Off
+C-Freq	226	NXS 26-1	451637500	NFM	D271	Off	2	Off
+C-Freq	227	NXS 27-1	459375000	NFM	D223	Off	2	Off
+C-Freq	228	NXS 28-1	452087500	NFM	D311	Off	2	Off
+C-Freq	229	NXS 29-1	460637500	Auto	D261	Off	2	Off
+C-Freq	230		0	Auto	Off	On	2	Off
+C-Freq	231	NXS 31-1	467175000	NFM	D251	Off	2	Off
+C-Freq	232	NXS 32-1	460025000	NFM	C173.8	Off	2	Off
+C-Freq	233	NXS 33-1	469375000	Auto	D423	Off	2	Off
+C-Freq	234		0	Auto	Off	On	2	Off
+C-Freq	235	NXS 35-1	458425000	NFM	C94.8	Off	2	Off
+C-Freq	236		0	Auto	Off	On	2	Off
+C-Freq	237		0	Auto	Off	On	2	Off
+C-Freq	238		0	Auto	Off	On	2	Off
+C-Freq	239	NXS 39-1	457012500	NFM	D261	Off	2	Off
+C-Freq	240		0	Auto	Off	On	2	Off
+C-Freq	241	NXS 41-1	451375000	NFM	C97.4	Off	2	Off
+C-Freq	242	NXS 42-1	469712500	NFM	C141.3	Off	2	Off
+C-Freq	243		0	Auto	Off	On	2	Off
+C-Freq	244	NXS 44-1	453375000	NFM	C127.3	Off	2	Off
+C-Freq	245	NXS 45-1	459912500	NFM	D731	Off	2	Off
+C-Freq	246		0	Auto	Off	On	2	Off
+C-Freq	247		0	Auto	Off	On	2	Off
+C-Freq	248	NXS 48-1	468537500	NFM	D116	Off	2	Off
+C-Freq	249		0	Auto	Off	On	2	Off
+C-Freq	250	NSX 50-1	469637500	Auto	D072	Off	2	Off
+Conventional	6	Bank 6	Off
+C-Freq	251	NXS 51-1	469187500	NFM	C162.2	Off	2	Off
+C-Freq	252		0	Auto	Off	On	2	Off
+C-Freq	253	NXS 53-1	461475000	NFM	C118.8	Off	2	Off
+C-Freq	254	NXS 54-1	464700000	NFM	D165	Off	2	Off
+C-Freq	255		0	Auto	Off	On	2	Off
+C-Freq	256		0	Auto	Off	On	2	Off
+C-Freq	257		0	Auto	Off	On	2	Off
+C-Freq	258		0	Auto	Off	On	2	Off
+C-Freq	259		0	Auto	Off	On	2	Off
+C-Freq	260		0	Auto	Off	On	2	Off
+C-Freq	261		0	Auto	Off	On	2	Off
+C-Freq	262		0	Auto	Off	On	2	Off
+C-Freq	263		0	Auto	Off	On	2	Off
+C-Freq	264		0	Auto	Off	On	2	Off
+C-Freq	265		0	Auto	Off	On	2	Off
+C-Freq	266	NXS 66-1	458537500	Auto	D654	Off	2	Off
+C-Freq	267		0	Auto	Off	On	2	Off
+C-Freq	268		0	Auto	Off	On	2	Off
+C-Freq	269		0	Auto	Off	On	2	Off
+C-Freq	270	NXS 70-1	461875000	NFM	D612	Off	2	Off
+C-Freq	271	NXS 71-1	463375000	NFM	D156	Off	2	Off
+C-Freq	272		0	Auto	Off	On	2	Off
+C-Freq	273		0	Auto	Off	On	2	Off
+C-Freq	274	NXS 74-1	461750000	Auto	C123.0	Off	2	Off
+C-Freq	275		0	Auto	Off	On	2	Off
+C-Freq	276		0	Auto	Off	On	2	Off
+C-Freq	277		0	Auto	Off	On	2	Off
+C-Freq	278		0	Auto	Off	On	2	Off
+C-Freq	279		0	Auto	Off	On	2	Off
+C-Freq	280		0	Auto	Off	On	2	Off
+C-Freq	281		0	Auto	Off	On	2	Off
+C-Freq	282		0	Auto	Off	On	2	Off
+C-Freq	283		0	Auto	Off	On	2	Off
+C-Freq	284		0	Auto	Off	On	2	Off
+C-Freq	285		0	Auto	Off	On	2	Off
+C-Freq	286		0	Auto	Off	On	2	Off
+C-Freq	287	NXS 87-1	465725000	Auto	D243	Off	2	Off
+C-Freq	288	NXS 88-1	466337500	NFM	D732	Off	2	Off
+C-Freq	289		0	Auto	Off	On	2	Off
+C-Freq	290		0	Auto	Off	On	2	Off
+C-Freq	291	NXS 91-1	463062500	NFM	C77.0	Off	2	Off
+C-Freq	292	NXS 92-1	456625000	Auto	C107.2	Off	2	Off
+C-Freq	293		0	Auto	Off	On	2	Off
+C-Freq	294		0	Auto	Off	On	2	Off
+C-Freq	295		0	Auto	Off	On	2	Off
+C-Freq	296		0	Auto	Off	On	2	Off
+C-Freq	297	MRN-2	454000000	NFM	C91.5	Off	2	Off
+C-Freq	298	MRN-1	454200000	NFM	C74.4	Off	2	Off
+C-Freq	299	NXS 99-1	460100000	NFM	D412	Off	2	Off
+C-Freq	300	TV CREW CHIEF	464487500	NFM	D606	Off	2	Off
+Conventional	7	Bank 7	Off
+C-Freq	301	NXS 1-2	453187500	NFM	C179.9	Off	2	Off
+C-Freq	302	NXS 2-2	464462500	NFM	D632	Off	2	Off
+C-Freq	303	NXS 3-2	464375000	Auto	C210.7	Off	2	Off
+C-Freq	304	NXS 4-2	451062500	NFM	C210.7	Off	2	Off
+C-Freq	305	NXS 5-2	457212500	NFM	D131	Off	2	Off
+C-Freq	306	NXS 07-2	467712500	Auto	D244	Off	2	Off
+C-Freq	307	NXS 7-2	459162500	NFM	C67.0	Off	2	Off
+C-Freq	308	NXS 8-2	468312500	NFM	D445	Off	2	Off
+C-Freq	309	NXS 9-2	464112500	Auto	C131.8	Off	2	Off
+C-Freq	310	NXS 10-2	459575000	NFM	D734	Off	2	Off
+C-Freq	311	NXS 11-2	459750000	NFM	D172	Off	2	Off
+C-Freq	312	NXS 00-2	452837500	NFM	D315	Off	2	Off
+C-Freq	313		0	Auto	Off	On	2	Off
+C-Freq	314	NXS 14-2	463787500	NFM	D143	Off	2	Off
+C-Freq	315		0	Auto	Off	On	2	Off
+C-Freq	316	NXS 16-2	465375000	NFM	C85.4	Off	2	Off
+C-Freq	317	NXS 17-2	458837500	Auto	D162	Off	2	Off
+C-Freq	318	NXS 18-2	451850000	NFM	D465	Off	2	Off
+C-Freq	319	NXS 19-2	451300000	NFM	D122	Off	2	Off
+C-Freq	320	NXS 20-2	464087500	NFM	D712	Off	2	Off
+C-Freq	321	NXS 21-2	457462500	NFM	C88.5	Off	2	Off
+C-Freq	322		0	Auto	Off	On	2	Off
+C-Freq	323		0	Auto	Off	On	2	Off
+C-Freq	324	NXS 24-2	465462500	Auto	C118.8	Off	2	Off
+C-Freq	325	NXS 25-2	467312500	NFM	D174	Off	2	Off
+C-Freq	326	NXS 26-2	451412500	NFM	D371	Off	2	Off
+C-Freq	327	NXS 27-2	462437500	NFM	C156.7	Off	2	Off
+C-Freq	328	NXS 28-2	469662500	NFM	C100.0	Off	2	Off
+C-Freq	329		0	Auto	Off	On	2	Off
+C-Freq	330		0	Auto	Off	On	2	Off
+C-Freq	331	NXS 31-2	465775000	NFM	D043	Off	2	Off
+C-Freq	332	NXS 32-2	462962500	NFM	C167.9	Off	2	Off
+C-Freq	333	NXS 33-2	464375000	Auto	C210.7	Off	2	Off
+C-Freq	334		0	Auto	Off	On	2	Off
+C-Freq	335	NXS 35-2	463310000	NFM	D331	Off	2	Off
+C-Freq	336		0	Auto	Off	On	2	Off
+C-Freq	337		0	Auto	Off	On	2	Off
+C-Freq	338		0	Auto	Off	On	2	Off
+C-Freq	339	NXS 39-2	469662500	NFM	C100.0	Off	2	Off
+C-Freq	340		0	Auto	Off	On	2	Off
+C-Freq	341	NXS 41-2	468062500	NFM	D412	Off	2	Off
+C-Freq	342	NXS 42-2	468525000	NFM	C127.3	Off	2	Off
+C-Freq	343		0	Auto	Off	On	2	Off
+C-Freq	344	NXS 44-2	458637500	NFM	D662	Off	2	Off
+C-Freq	345	NXS 45-2	462945000	NFM	C146.2	Off	2	Off
+C-Freq	346		0	Auto	Off	On	2	Off
+C-Freq	347		0	Auto	Off	On	2	Off
+C-Freq	348	NXS 48-2	457962500	NFM	D546	Off	2	Off
+C-Freq	349		0	Auto	Off	On	2	Off
+C-Freq	350	NXS 50-2	462012500	NFM	C141.3	Off	2	Off
+Conventional	8	Bank 8	Off
+C-Freq	351	NXS 51-2	468725000	NFM	C110.9	Off	2	Off
+C-Freq	352		0	Auto	Off	On	2	Off
+C-Freq	353	NXS 53-2	463087500	NFM	D631	Off	2	Off
+C-Freq	354	NXS 54-2	464650000	NFM	D072	Off	2	Off
+C-Freq	355		0	Auto	Off	On	2	Off
+C-Freq	356		0	Auto	Off	On	2	Off
+C-Freq	357		0	Auto	Off	On	2	Off
+C-Freq	358		0	Auto	Off	On	2	Off
+C-Freq	359		0	Auto	Off	On	2	Off
+C-Freq	360		0	Auto	Off	On	2	Off
+C-Freq	361		0	Auto	Off	On	2	Off
+C-Freq	362		0	Auto	Off	On	2	Off
+C-Freq	363		0	Auto	Off	On	2	Off
+C-Freq	364		0	Auto	Off	On	2	Off
+C-Freq	365		0	Auto	Off	On	2	Off
+C-Freq	366	NXS 66-2	467687500	Auto	D565	Off	2	Off
+C-Freq	367		0	Auto	Off	On	2	Off
+C-Freq	368		0	Auto	Off	On	2	Off
+C-Freq	369		0	Auto	Off	On	2	Off
+C-Freq	370	NXS 70-2	461925000	NFM	D371	Off	2	Off
+C-Freq	371	NXS 71-2	462837500	NFM	D156	Off	2	Off
+C-Freq	372		0	Auto	Off	On	2	Off
+C-Freq	373		0	Auto	Off	On	2	Off
+C-Freq	374	NXS 74-2	470000000	Auto	C123.0	Off	2	Off
+C-Freq	375		0	Auto	Off	On	2	Off
+C-Freq	376		0	Auto	Off	On	2	Off
+C-Freq	377		0	Auto	Off	On	2	Off
+C-Freq	378		0	Auto	Off	On	2	Off
+C-Freq	379		0	Auto	Off	On	2	Off
+C-Freq	380		0	Auto	Off	On	2	Off
+C-Freq	381		0	Auto	Off	On	2	Off
+C-Freq	382		0	Auto	Off	On	2	Off
+C-Freq	383		0	Auto	Off	On	2	Off
+C-Freq	384		0	Auto	Off	On	2	Off
+C-Freq	385		0	Auto	Off	On	2	Off
+C-Freq	386		0	Auto	Off	On	2	Off
+C-Freq	387	NXS 87-1	453262500	Auto	C225.7	Off	2	Off
+C-Freq	388	NXS 88-2	451750000	NFM	C162.2	Off	2	Off
+C-Freq	389		0	Auto	Off	On	2	Off
+C-Freq	390		0	Auto	Off	On	2	Off
+C-Freq	391	NXS 91-2	461375000	NFM	D023	Off	2	Off
+C-Freq	392	NXS 92-2	451937500	Auto	D413	Off	2	Off
+C-Freq	393		0	Auto	Off	On	2	Off
+C-Freq	394		0	Auto	Off	On	2	Off
+C-Freq	395		0	Auto	Off	On	2	Off
+C-Freq	396		0	Auto	Off	On	2	Off
+C-Freq	397		0	Auto	Off	On	2	Off
+C-Freq	398		0	Auto	Off	On	2	Off
+C-Freq	399	NXS 99-2	465537500	NFM	C241.8	Off	2	Off
+C-Freq	400	TV CREW CHIEF	464487500	Auto	D606	Off	2	Off
+Conventional	9	Bank 9	Off
+C-Freq	401	TRK 1-1	460625000	NFM	D506	Off	2	Off
+C-Freq	402	TRK 2-1	463362500	NFM	D047	Off	2	Off
+C-Freq	403	TRK 02-1	456150000	NFM	D743	Off	2	Off
+C-Freq	404	TRK 4-1	453087500	NFM	C97.4	Off	2	Off
+C-Freq	405	TRK 5-1	468512500	NFM	D631	Off	2	Off
+C-Freq	406	TRK 6-1	453237500	NFM	D466	Off	2	Off
+C-Freq	407	TRK 7-1	462375000	NFM	D244	Off	2	Off
+C-Freq	408	TRK 07-1	462125000	Auto	D125	Off	2	Off
+C-Freq	409	TRK 9-1	451625000	NFM	D172	Off	2	Off
+C-Freq	410	TRK 11-1	463737500	NFM	D662	Off	2	Off
+C-Freq	411	TRK 13-1	460512500	NFM	D325	Off	2	Off
+C-Freq	412	TRK 15-1	458662500	NFM	D712	Off	2	Off
+C-Freq	413	TRK 17-1	460775000	NFM	D612	Off	2	Off
+C-Freq	414	TRK 18-1	456825000	NFM	D466	Off	2	Off
+C-Freq	415	TRK 19-1	452362500	NFM	D565	Off	2	Off
+C-Freq	416	TRK 20-1	451687500	Auto	D516	Off	2	Off
+C-Freq	417	TRK 22-1	456662500	NFM	D723	Off	2	Off
+C-Freq	418	TRK 26-1	464562500	NFM	C123.0	Off	2	Off
+C-Freq	419	TRK 27-1	463362500	NFM	D047	Off	2	Off
+C-Freq	420	TRK 28-1	452112500	NFM	D743	On	2	Off
+C-Freq	421	TRK 33-1	460475000	NFM	C203.5	Off	2	Off
+C-Freq	422	TRK 34-1	467850000	NFM	D351	Off	2	Off
+C-Freq	423	TRK 38-1	468662500	NFM	D532	Off	2	Off
+C-Freq	424	TRK 42-1	468712500	Auto	D134	Off	2	Off
+C-Freq	425	TRK 44-1	462987500	NFM	C107.2	Off	2	Off
+C-Freq	426	TRK 45-1	463725000	NFM	D114	Off	2	Off
+C-Freq	427	TRK 52-1	468162500	NFM	D624	Off	2	Off
+C-Freq	428	TRK 56-1	451562500	NFM	D371	On	2	Off
+C-Freq	429	TRK 63-1	451737500	Auto	D223	Off	2	Off
+C-Freq	430	TRK 66-1	456937500	NFM	D053	Off	2	Off
+C-Freq	431	TRK 67-1	453400000	Auto	D465	Off	2	Off
+C-Freq	432	TRK 71-1	469587500	NFM	D134	Off	2	Off
+C-Freq	433	TRK 75-1	462075000	NFM	C131.8	Off	2	Off
+C-Freq	434	TRK 76-1	467662500	NFM	D155	Off	2	Off
+C-Freq	435	TRK 77-1	468400000	NFM	C97.4	Off	2	Off
+C-Freq	436	TRK 81-1	457287500	Auto	C82.5	Off	2	Off
+C-Freq	437	TRK 84-1	466700000	NFM	C225.7	Off	2	Off
+C-Freq	438	TRK 88-1	461675000	NFM	D226	Off	2	Off
+C-Freq	439	TRK 90-1	461325000	NFM	D731	Off	2	Off
+C-Freq	440	TRK 91-1	466625000	NFM	D115	Off	2	Off
+C-Freq	441	TRK 95-1	466700000	Auto	C225.7	Off	2	Off
+C-Freq	442	TRK 98-1	457025000	NFM	D431	Off	2	Off
+C-Freq	443	TRK 99-1	468687500	NFM	D311	Off	2	Off
+C-Freq	444		0	Auto	Off	On	2	Off
+C-Freq	445		0	Auto	Off	On	2	Off
+C-Freq	446		0	Auto	Off	On	2	Off
+C-Freq	447		0	Auto	Off	On	2	Off
+C-Freq	448	TV CREW CHIEF	464487500	NFM	D606	Off	2	Off
+C-Freq	449	MRN-2	454000000	NFM	C91.5	Off	2	Off
+C-Freq	450	MRN-1	454200000	NFM	C74.4	Off	2	Off
+Conventional	10	Bank 10	Off
+C-Freq	451	TRK 1-2	452887500	NFM	D271	Off	2	Off
+C-Freq	452	TRK 2-2	467125000	NFM	D145	Off	2	Off
+C-Freq	453	TRK 02-2	452187500	NFM	D627	Off	2	Off
+C-Freq	454	TRK 4-2	468975000	NFM	C118.8	Off	2	Off
+C-Freq	455	TRK 5-2	464025000	NFM	D466	Off	2	Off
+C-Freq	456	TRK 6-2	469137500	NFM	C100.0	Off	2	Off
+C-Freq	457	TRK 7-2	463750000	NFM	D546	Off	2	Off
+C-Freq	458	TRK 07-2	457125000	NFM	D145	Off	2	Off
+C-Freq	459	TRK 9-2	457212500	NFM	D412	Off	2	Off
+C-Freq	460	TRK 11-2	459012500	NFM	C97.4	Off	2	Off
+C-Freq	461	TRK 13-2	462887500	NFM	D356	Off	2	Off
+C-Freq	462	TRK 15-2	458812500	NFM	D263	Off	2	Off
+C-Freq	463	TRK 17-2	467425000	NFM	D315	Off	2	Off
+C-Freq	464	TRK 18-2	463212500	NFM	C206.5	Off	2	Off
+C-Freq	465	TRK 19-2	463550000	NFM	D445	Off	2	Off
+C-Freq	466	TRK 20-2	456750000	NFM	D546	Off	2	Off
+C-Freq	467	TRK 22-2	450112500	NFM	D043	Off	2	Off
+C-Freq	468	TRK 26-2	466587500	NFM	C94.8	Off	2	Off
+C-Freq	469	TRK 27-2	467125000	NFM	C69.3	Off	2	Off
+C-Freq	470	TRK 28-2	0	NFM	Off	On	2	Off
+C-Freq	471	TRK 33-2	458087500	NFM	C192.8	Off	2	Off
+C-Freq	472	TRK 34-2	469100000	NFM	D143	Off	2	Off
+C-Freq	473	TRK 38-2	467925000	NFM	C241.8	Off	2	Off
+C-Freq	474	TRK 42-2	469225000	NFM	C167.9	Off	2	Off
+C-Freq	475	TRK 44-2	463187500	NFM	D072	Off	2	Off
+C-Freq	476	TRK 45-2	457812500	NFM	D245	Off	2	Off
+C-Freq	477	TRK 52-2	462412500	NFM	D265	Off	2	Off
+C-Freq	478	TRK 56-2	0	NFM	Off	On	2	Off
+C-Freq	479	TRK 63-2	453587500	NFM	C85.4	Off	2	Off
+C-Freq	480	TRK 66-2	468037500	NFM	C91.5	Off	2	Off
+C-Freq	481	TRK 67-2	456525000	NFM	C179.9	Off	2	Off
+C-Freq	482	TRK 71-2	463612500	NFM	D205	Off	2	Off
+C-Freq	483	TRK 75-2	0	NFM	Off	On	2	Off
+C-Freq	484	TRK 76-2	469437500	NFM	C250.3	Off	2	Off
+C-Freq	485	TRK 77-2	469025000	NFM	D331	Off	2	Off
+C-Freq	486	TRK 81-2	457037500	NFM	C88.5	Off	2	Off
+C-Freq	487	TRK 84-2	466387500	NFM	D306	Off	2	Off
+C-Freq	488	TRK 88-2	468375000	NFM	C192.8	Off	2	Off
+C-Freq	489	TRK 90-2	462325000	NFM	C91.5	Off	2	Off
+C-Freq	490	TRK 91-2	457350000	NFM	D026	Off	2	Off
+C-Freq	491	TRK 95-2	0	NFM	Off	On	2	Off
+C-Freq	492	TRK 98-2	456500000	NFM	D346	Off	2	Off
+C-Freq	493	TRK 99-2	461187500	NFM	C94.8	Off	2	Off
+C-Freq	494		0	Auto	Off	On	2	Off
+C-Freq	495		0	Auto	Off	On	2	Off
+C-Freq	496		0	Auto	Off	On	2	Off
+C-Freq	497		0	Auto	Off	On	2	Off
+C-Freq	498		0	Auto	Off	On	2	Off
+C-Freq	499	MRN-2	454000000	NFM	C91.5	Off	2	Off
+C-Freq	500	MRN-1	454200000	NFM	C74.4	Off	2	Off

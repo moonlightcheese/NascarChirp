@@ -1,4 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
-1,MOTOAMERICA 1,456.8125,off,0.000000,TSQL,88.5,203.5,023,NN,023,Tone->Tone,Auto,5.00,,5.0W,,,,,
-2,MOTOAMERICA 2,452.23752,off,0.000000,TSQL,88.5,127.3,023,NN,023,Tone->Tone,Auto,5.00,,5.0W,,,,,
-3,MOTOAMERICA 3,452.05,off,0.000000,TSQL,88.5,206.5,023,NN,023,Tone->Tone,Auto,5.00,,5.0W,,,,,
